@@ -1,0 +1,4 @@
+- [ ] Faire le document 1.1.1.3 en SES 📅 2025-11-17
+- [ ] Réviser le cours / apporter la calculatrice pour le contrôle en SES 📅 2025-11-14
+- [ ] Terminer l'exercice 3 du doc *III.B.1* en géographie et rapporter le livre d'histoire 📅 2025-11-19
+- [ ] 

@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Cours
+draft: false
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Bienvenue sur le cours de Camille Marchand Belmont.
+Retrouvez mes projets sur [Cmarbel15 - Développeur Python, HTML, CSS](https://www.cmarbel15.xyz)

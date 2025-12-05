@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"f8d4729c15f53238","x":-112,"y":-109,"width":250,"height":60,"type":"text","text":"13$th$ November"},
+		{"id":"593936801d0aeb36","x":-440,"y":-109,"width":250,"height":60,"type":"text","text":"football game"},
+		{"id":"d8eb28424845f7e1","x":-440,"y":0,"width":250,"height":60,"type":"text","text":"S.A"},
+		{"id":"9ee7a3d8b8dabd92","x":-440,"y":100,"width":250,"height":60,"type":"text","text":"Terrorist attack"},
+		{"id":"ce2f9fdca761cec6","x":-440,"y":-220,"width":250,"height":60,"type":"text","text":"Explosive belt"},
+		{"id":"760374c55ee41253","x":-440,"y":-320,"width":250,"height":60,"type":"text","text":"Suicide bomb"},
+		{"id":"e6d70ab4a0f5619b","x":-440,"y":-420,"width":250,"height":60,"type":"text","text":"Shootguns"},
+		{"id":"59bed25d866b3813","x":-440,"y":200,"width":250,"height":60,"type":"text","text":"Bataclan"},
+		{"id":"5f64801658ae097e","x":-440,"y":-520,"width":250,"height":60,"type":"text","text":"Hostages"},
+		{"id":"6150103b430b11a7","x":-440,"y":300,"width":250,"height":60,"type":"text","text":"Guns"},
+		{"id":"5e9213fd4e469f21","x":-440,"y":-620,"width":250,"height":60,"type":"text","text":"Cafés"},
+		{"id":"78aa243501860836","x":-440,"y":400,"width":250,"height":60,"type":"text","text":"Night"},
+		{"id":"5788b0b79bfacc0a","x":220,"y":-109,"width":250,"height":60,"type":"text","text":"ISIS"}
+	],
+	"edges":[
+		{"id":"4378100cb5e202fb","fromNode":"f8d4729c15f53238","fromSide":"left","toNode":"593936801d0aeb36","toSide":"right"},
+		{"id":"1d55e201ff2fecf2","fromNode":"f8d4729c15f53238","fromSide":"left","toNode":"d8eb28424845f7e1","toSide":"right"},
+		{"id":"cfb4984aef9d9c89","fromNode":"f8d4729c15f53238","fromSide":"left","toNode":"9ee7a3d8b8dabd92","toSide":"right"},
+		{"id":"ef0ed3e8c9a1f647","fromNode":"f8d4729c15f53238","fromSide":"left","toNode":"ce2f9fdca761cec6","toSide":"right"},
+		{"id":"880cfa34e96571bc","fromNode":"f8d4729c15f53238","fromSide":"left","toNode":"760374c55ee41253","toSide":"right"},
+		{"id":"c7b35bb73b088548","fromNode":"f8d4729c15f53238","fromSide":"left","toNode":"e6d70ab4a0f5619b","toSide":"right"},
+		{"id":"15558b354cab6690","fromNode":"f8d4729c15f53238","fromSide":"left","toNode":"59bed25d866b3813","toSide":"right"},
+		{"id":"eba862b562ee52ff","fromNode":"f8d4729c15f53238","fromSide":"left","toNode":"5f64801658ae097e","toSide":"right"},
+		{"id":"8bda577444ac8853","fromNode":"f8d4729c15f53238","fromSide":"left","toNode":"6150103b430b11a7","toSide":"right"},
+		{"id":"90edda3c171850da","fromNode":"f8d4729c15f53238","fromSide":"left","toNode":"5e9213fd4e469f21","toSide":"right"},
+		{"id":"cd1e2e5d8a673b60","fromNode":"f8d4729c15f53238","fromSide":"left","toNode":"78aa243501860836","toSide":"right"},
+		{"id":"f6bde637a572a3fa","fromNode":"5788b0b79bfacc0a","fromSide":"left","toNode":"f8d4729c15f53238","toSide":"right"}
+	]
+}
