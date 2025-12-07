@@ -40,4 +40,19 @@ $C_x=$ Coefficient de trainée
 
 Aile en flèche = vitesse
 Aile droite = portance
-  
+
+
+Aérostats : plus léger que l'air
+Aérodynes : plus lourd que l'air
+ULM :
+- Classe 1 : Paramoteur
+- Classe 2 : Pendulaire
+- Classe 3 : Multi axe
+
+Matériaux de construction :
+- Bois 
+- Tissu 
+- Métaux
+- Composites
+
+cadre / lisse / longeron /  nervure

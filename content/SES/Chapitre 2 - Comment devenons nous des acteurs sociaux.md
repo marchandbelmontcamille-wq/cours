@@ -33,3 +33,13 @@ Elle se fait aussi par interaction car l'enfant interagit avec ses pairs et part
 - L'école (lire, écrire, compter, valeurs de la république)
 - Les médias
 - Les réseaux sociaux
+cf doc *2.1.3.1*
+1) Selon le CREDOC, 94% des 18-24 ans sont allés sur les réseaux sociaux alors que seulement 30% des 60-69 ans l'ont fait
+2) Il y a moins de 12-17 ans sur les réseaux sociaux car ils ont des parents restrictifs sur l'usage des réseaux sociaux
+3) Elles sont liées à leur génération car les réseaux sociaux se démocratisent et les attirent  et les plus âgés ne sont pas familiers avec ces outils. Elles sont également liées à leur âge car les contenus sont essentiellement faits pour les jeunes
+4) Ils sont une instance de socialisation par interaction car on peut interagir, envoyer des messages et y répondre. C'est également de la socialisation par imitation car on cherche à imiter les influenceurs
+## 2) En quoi la socialisation est elle un processus différencié
+### 1) La socialisation est différenciée selon le genre
+cf doc *2.2.1.1*
+1) Garçons : Voiture de police / armée, fausses armes, épées, armures médiévales, bricolage Filles : Princesse, etc
+2) Les ""jouets de fille"" sont des jouets

@@ -39,6 +39,34 @@ tags:
 16) gemelos
 
 17) metodo
+
+18) angustia
+
+19) desanimo
+
+20) alegria
+
+21) gozo
+
+22) festejar
+
+23) disfrutar
+
+24) lograr
+
+25) desgracia
+
+26) revés
+
+27) coronarse
+
+28) abrazar
+
+29) enojo
+
+30) temor
+
+31) regocijo
 ## Mots en français
 1) personnages principaux
 
@@ -73,3 +101,31 @@ tags:
 16) jumeaux
 
 17) méthode
+
+18) angoisse  
+  
+19) découragement  
+  
+20) joie  
+  
+21) bonheur  
+  
+22) célébrer  
+  
+23) profiter  
+  
+24) réussir  
+  
+25) malheur  
+  
+26) revers  
+  
+27) se couronner  
+  
+28) embrasser  
+  
+29) colère  
+  
+30) peur  
+  
+31) réjouissance
