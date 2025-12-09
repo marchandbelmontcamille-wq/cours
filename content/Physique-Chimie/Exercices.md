@@ -45,3 +45,6 @@ $P_m=55700\times 1,6=89120N.kg^{-1}$ x
 ### 8)
 1) D'après la loi des nœuds : $I_1=I_2+I_3$ -> $I_3=I_1-I_2=100-30=70mA$
 2) D'après la loi des mailles appliquée dans la maille ABCD orientée dans le sens horaire
+### 6)
+1) D'après la loi des noeuds, appliquée au noeud E : $I_2+I_1=I_G$ 
+A.N :                                                        

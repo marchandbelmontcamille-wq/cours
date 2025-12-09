@@ -48,12 +48,31 @@
 >>[!EXAMPLE] Exemple :
 >>cf *tableau* en dessous
 
+>[!FAQ] Méthode :
+>>[!TIP] De taux d’évolution à coefficient multiplicateur
+>>>[!TIP] Sous forme décimale
+>>>$CM=1+t$
+>>>Ex : Augmentation de 8% => $t=0,08$, donc $CM=1+0,08=1,08$
+>>>Ex : Baisse de 15% => $t=-0,15$, donc $CM=1-0,15=0,85$
+>>
+>>>[!TIP] Sous forme de pourcentage
+>>>$CM=1+\frac {t} {100}$
+>>>Ex : Augmentation de 8% => $t=8$, donc $CM=1+\frac {8} {100}=1,08$
+>>>Ex : Baisse de 15% => $t=-15$, donc $CM=1-\frac {15} {100}=0,85$
+>
+>>[!TIP] De coefficient multiplicateur à taux d’évolution
+>>$t=CM-1$
+>>Ex : $CM=1,12$=>$1,12-1=0,12$, soit une augmentation de 12%
+>>Ex : $CL=0,8$=>$t=0,8-1=-0,2$, soit une diminution de 20%
+
+
+
+
 
 | Taux d'évolution     | Coefficient multiplicateur |
 | -------------------- | -------------------------- |
-| 1+t / 1-t ->         | <- coef -1 (X 100 si prct) |
 | Augmentation de 27%  | 1,27                       |
-| Diminution de 14,7%  | 0,53                       |
+| Diminution de 14,7%  | 0,853                      |
 | Augmentation de 73%  | 1,73                       |
 | Diminution de 62%    | 0,38                       |
 | Augmentation de 250% | 3,5                        |

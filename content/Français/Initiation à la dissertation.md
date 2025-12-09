@@ -14,3 +14,4 @@ Fatalité, destin malveillant -> dénouement funeste
 Apprentissage du héros qui grandit par des épreuves dont il triomphe souvent guidé par un sage et le dénouement est heureux
 ## Roman symbolique
 Le roman a une portée morale universelle
+
