@@ -56,12 +56,6 @@ const config: QuartzConfig = {
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
-      CreatedModifiedDate({
-        showCreatedDate: true,
-        createdDateFormat: "YYYY-MM-DD HH:mm",
-        showModifiedDate: true,
-        modifiedDateFormat: "YYYY-MM-DD HH:mm",
-      }),
       Plugin.HardLineBreaks(),
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "git", "filesystem"],
