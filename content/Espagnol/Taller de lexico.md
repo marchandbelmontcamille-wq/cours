@@ -24,4 +24,4 @@ sufridor
 nadador
 emocionador
 jugador
-sellecionador
+selecionador
