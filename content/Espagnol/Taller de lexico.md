@@ -25,3 +25,6 @@ nadador
 emocionador
 jugador
 selecionador
+## 5)
+El documento es un cartel que promociona el deporte y el parque municipal de Moron.
+El eslogan hace referencia los deportes siguientes

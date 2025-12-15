@@ -47,4 +47,6 @@ $P_m=55700\times 1,6=89120N.kg^{-1}$ x
 2) D'après la loi des mailles appliquée dans la maille ABCD orientée dans le sens horaire
 ### 6)
 1) D'après la loi des noeuds, appliquée au noeud E : $I_2+I_1=I_G$ 
-A.N :                                                        
+2) D'après la loi des mailles appliquée dans la maille ABCDE dans le sens horaire : $U_G=U_{R_2}+U_{L_2}$ : $U_{L_2}=U_G-U_{R_2}$ : A.N : $U_{L_2}=12-8,5=3,5$
+## 7)
+2) D'après la loi des mailles appliquée dans la maille PNCA dans le sens horaire : $U_{PN}=U_{AB}+U_{BC}$ du coup : $U_{BC}=U_{PN}-U_{AB}$ A.N : $U_{BC}=12-6=8V$ 

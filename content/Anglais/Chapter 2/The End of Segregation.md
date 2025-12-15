@@ -50,3 +50,8 @@ MX avait déja beaucoup voyagé avant de devenir un leader
 MLK était en train de lutter pour les droits civiques quand il a été assassiné
 MLK was fighting for the civil rights when he was assassinated
 J'étais en train de faire à manger quand ma mère m'a appelé. Elle ne m'avait pas appelé deuis deux mois
+
+## George Floyd
+He is dead by neck contraint of Derek Chauvin. He goes to hospital in a EMS
+- witnesses
+- camera footage
