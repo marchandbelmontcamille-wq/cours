@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"0345076bf5f536e7","type":"text","text":"Corrélation\nDéfinition : C'est le lien qui unit deux variables évoluant ensemble","x":-202,"y":-115,"width":250,"height":115},
+		{"id":"4bb33de96dea595d","x":120,"y":-100,"width":250,"height":85,"type":"text","text":"Causalité\nL'un est la cause de l'autre"},
+		{"id":"017979d52603801f","x":120,"y":20,"width":250,"height":94,"type":"text","text":"Variable cachée\nTroisième variable explique les deux autres"},
+		{"id":"5841c42219400ffd","x":120,"y":-200,"width":250,"height":60,"type":"text","text":"Hasard\n= Coincidence"}
+	],
+	"edges":[
+		{"id":"292ed4ef3054d7e5","fromNode":"0345076bf5f536e7","fromSide":"right","toNode":"4bb33de96dea595d","toSide":"left"},
+		{"id":"c828f4a329686e2e","fromNode":"0345076bf5f536e7","fromSide":"right","toNode":"5841c42219400ffd","toSide":"left"},
+		{"id":"c05b8d50aacdf464","fromNode":"0345076bf5f536e7","fromSide":"right","toNode":"017979d52603801f","toSide":"left"}
+	]
+}

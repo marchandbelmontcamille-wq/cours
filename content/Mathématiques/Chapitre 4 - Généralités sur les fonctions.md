@@ -4,7 +4,7 @@ draft: false
 tags:
   -
 ---
-## I- Notion de fonction et vocabulaire
+ ## I- Notion de fonction et vocabulaire
 ### 1) Notion de fonction
 
 >[!FAQ] Définition :

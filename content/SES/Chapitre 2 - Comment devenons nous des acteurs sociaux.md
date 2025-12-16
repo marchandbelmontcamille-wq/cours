@@ -43,3 +43,4 @@ cf doc *2.1.3.1*
 cf doc *2.2.1.1*
 1) Garçons : Voiture de police / armée, fausses armes, épées, armures médiévales, bricolage Filles : Princesse, etc
 2) Les ""jouets de fille"" sont des jouets
+## 3)

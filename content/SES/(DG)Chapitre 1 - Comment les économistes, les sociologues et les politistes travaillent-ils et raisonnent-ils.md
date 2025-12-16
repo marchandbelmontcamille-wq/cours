@@ -53,3 +53,19 @@ cf doc *2.1.1*
 >C'est à dire qu'on essaye de recueillir le plus grand nombre de données par un sondage, questionnaire
 
 Les enquêtes doivent être réalisées auprès d'un échantillon représentatif. Les questions doivent être neutres, claires, simples et ne doivent pas être biaisées
+### 3) Les économistes, sociologues et politistes mettent en évidence des liens de causalité entre des variables
+cf doc *2.3.1*
+1) Les élèves qui ont fait le plus de fautes sont ceux avec les plus petits pieds
+2) Plus il y a de consommation de chocolat, plus il y a de prix Nobel
+3) 
+>[!FAQ] Définition : *Corrélation*
+>C'est le lien qui unit deux variables évoluant ensemble.
+
+4) Les élèves de CM2 ont plus étudié la grammaire alors que les élèves de CP qui ont des plus petits pieds viennent juste de commencer
+5) [[Corrélation.canvas|Corrélation]]
+6) 
+1- Variable cachée
+2- Causalité
+3- Variable Cachée
+4- Variable cachée
+5- Causalité
