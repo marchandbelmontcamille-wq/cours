@@ -55,3 +55,22 @@ J'étais en train de faire à manger quand ma mère m'a appelé. Elle ne m'avait
 He is dead by neck contraint of Derek Chauvin. He goes to hospital in a EMS
 - witnesses
 - camera footage
+
+GF achetait des cigarettes quand l'employé a remarqué qu'il était saoul
+GF was buying cigarettes when the employer he was drink
+
+-
+Chauvin avait déja été violent auparavent
+Chauvin was already violent before
+
+-
+Les témoins ont dit que GF ne bougeait pas
+The witnesses was saying GF
+
+-
+MLK fumait une cigarette sur son balcon quand le tireur l'a ciblé
+He was smoking a cigarette when the shooter has targeted him
+
+-
+Il avait déjà été attaqué avant
+He was already attacked before

@@ -3,7 +3,7 @@
 
 Bonjour, aujourd'hui on va parler d'une guerre. D'une guerre qui dure depuis depuis des années, que dis je des décennies, des générations, des siècles au moins avec des centaines de millions de soldats dans les deux camps. 
 
-Mais les protagonistes, qui sont ils me direz vous ? Eh bien c'est le genre humain, enfin non c'est les mammifères mais il faut bien qu'une espèce se dévoue pour tous les autres, et aux dernières nouvelles, nous sommes les seuls à maitriser l'atome pour créer des mutants et afin bâtir le mur de chair qui nous protège tous sans exception.
+Mais les protagonistes, qui sont ils me direz vous ? Eh bien c'est le genre humain, enfin non ce sont les mammifères mais il faut bien qu'une espèce se dévoue pour tous les autres, et aux dernières nouvelles, nous sommes les seuls à maitriser l'atome pour créer des mutants et afin bâtir le mur de chair qui nous protège tous sans exception.
 
 Vous vous dites sûrement à ce point que je ne suis pas très stable mentalement mais rassemblez vos souvenirs de latin et rappelez vous ce que veut dire *hominivorax*. Eh bien cela veut dire mangeur d'homme. Voilà l'ennemi qu'il nous faut combattre ! 
 
@@ -11,7 +11,7 @@ Vous vous dites surement que c'est un requin, un tigre ou un ours ? Eh bien vous
 
 En fait, ce n'est pas tant la mouche qui est dangereuse, c'est sa progéniture. Tous les mammifères servent de source de nourriture pour les larves, appelées vers en vis à cause de leur forme, et qui donnent son nom plus commun à l’espèce : la mouche à vers en vis du Nouveau Monde. Enfin quand je dis que les mammifères sont sa source de nourriture, c’est en fait plus que ça. Les vers s’en servent comme d’un terreau. Ils nous colonisent pour nous bouffer de l’intérieur avec leurs mandibules acérées.
 
-Les femelles repèrent des plaies ouvertes sur les animaux à sang chaud, et à l'échelle d'une mouche une simple écorchure suffit, et viennent pondre des centaines d'œufs dans les plaies. Une fois écloses après 12 à 24h, les larves se nourrissent sur la pauvre bête en s'enfonçant dans la peau. Elles causent ainsi l'aggravation et l'infection des plaies en question et c'est potentiellement mortel. Les femelles mouches peuvent également pondre dans les muqueuses des différents orifices : les yeux, les narines ou encore les parties génitales.
+Les femelles repèrent des plaies ouvertes sur les animaux à sang chaud, et à l'échelle d'une mouche une simple plaie suffit, et viennent pondre des centaines d'œufs dans les plaies. Une fois écloses après 12 à 24h, les larves se nourrissent sur la pauvre bête en s'enfonçant dans la peau. Elles causent ainsi l'aggravation et l'infection des plaies en question et c'est potentiellement mortel. Les femelles mouches peuvent également pondre dans les muqueuses des différents orifices : les yeux, les narines ou encore les parties génitales.
 
 Vous commencez à vous rendre compte du problème… J'ajoute qu'une fois le vers dans le... fruit, disons, il n'y a plus grand chose d'autre à faire que d'essayer de l'extirper manuellement.
 
@@ -61,9 +61,9 @@ Tous les moyens nécessaires sont mobilisés pour éliminer la souche libyenne d
 
 De retour aux Amériques, les cochliomyias sont repoussées toujours plus loin vers le sud, jusqu’au Panama. Et plus précisément le détroit de Darien. C’est un secteur absolument stratégique, précisément parce que c’est un détroit. C’est la zone la plus étroite par laquelle les mouches peuvent remonter depuis l’Amérique du Sud. Et essaient en permanence de remonter, en fait. C’est là que se trouve le réservoir de population, qu’il n’est pas envisageable d’éradiquer.
 
-Il faut établir une défense aussi hermétique que possible au niveau de ce goulot. C’est l’idée du "mur de chair" évoqué au début.
+Il faut établir une défense aussi hermétique que possible au niveau de ce goulot. C’est l’idée du "mur de chair" évoqué au début (bon ce serait plutôt un mur d'insectes mais bon voila).
 
-Le principe est bien de déverser en continu des quantités de mutants pour stopper l’avancée ennemie. Chaque semaine, 90 millions de futurs mâles stérilisés sont ainsi largués sur zone, via un ballet aérien organisé dans des couloirs séparés de 1,6 km précisément. Dans le même temps, des équipes au sol traquent en permanence les éventuelles traces d’infestation au nord de la frontière avec la Colombie. On maintient la Bouchère en Amérique du Sud, mais au prix d’un effort constant. Et surtout sans relâcher la vigilance ailleurs ! Elle va toujours essayer de nous prendre à revers.
+Le principe est de déverser en continu des quantités de mutants pour stopper l’avancée ennemie. Chaque semaine, 90 millions de futurs mâles stérilisés sont ainsi largués sur zone, via un ballet aérien organisé dans des couloirs séparés de 1,6 km précisément. Dans le même temps, des équipes au sol traquent en permanence les éventuelles traces d’infestation au nord de la frontière avec la Colombie. On maintient la Bouchère en Amérique du Sud, mais au prix d’un effort constant. Et surtout sans relâcher la vigilance ailleurs ! Elle va toujours essayer de nous prendre à revers.
 
 A la mi- 2016, la cochliomyia parvient à infiltrer les Florida Keys. Des vers sont repérés sur de nombreuses populations de cervidés locaux, et certains animaux domestiques. Un second front est donc ouvert. Les mouches stériles sont répandues depuis des stations au sol plutôt que par avion. Après le déploiement passif de près de 190 millions d’individus, l’éradication est déclarée en mars 2017.
 
