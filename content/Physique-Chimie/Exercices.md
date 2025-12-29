@@ -50,3 +50,18 @@ $P_m=55700\times 1,6=89120N.kg^{-1}$ x
 2) D'après la loi des mailles appliquée dans la maille ABCDE dans le sens horaire : $U_G=U_{R_2}+U_{L_2}$ : $U_{L_2}=U_G-U_{R_2}$ : A.N : $U_{L_2}=12-8,5=3,5$
 ## 7)
 2) D'après la loi des mailles appliquée dans la maille PNCA dans le sens horaire : $U_{PN}=U_{AB}+U_{BC}$ du coup : $U_{BC}=U_{PN}-U_{AB}$ A.N : $U_{BC}=12-6=8V$ 
+## Fiche d'exercices 1 chap 6
+### 1)
+$C_m=\frac {m_{\text {soluté}}} {V_{\text {solvant}}}=\frac {0.3} {0.1}=3\text{ }g\times l^{-1}$ 
+### 2)
+$C_m=\frac {m_{\text {Vitamine A}}} {V_{\text {Lait}}}=\frac {0.060} {0.100}=0.6\text { }g\times l^{-1}$ 
+### 4)
+$m=C_m\times V=5,0\times 10^{-3}\times 3.0=1,5\times 10^{-2}g$ 
+### 5)
+$\frac {2.5\times 1} {40}$ 
+Il faut boire 6,25 $cL$ 
+### 7)
+$C_m=\frac {m} {v}=\frac {10-1.4} {200}=0.043\text { }g\times mL^{-1}$
+### 8)
+$C_m=\frac {1.20} {0.4}=3$
+La réponse est $1.84g$

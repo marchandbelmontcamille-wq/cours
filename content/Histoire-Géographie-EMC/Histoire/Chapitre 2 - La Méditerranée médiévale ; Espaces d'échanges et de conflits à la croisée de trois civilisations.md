@@ -4,7 +4,7 @@ draft: false
 tags:
   -
 ---
->[!FAQ] Problématique :
+  >[!FAQ] Problématique :
 >Quelles civilisations coexistent sur les rives de la Méditerranée ? Quels conflits traversent le monde méditerranéen ? Pourquoi les échanges s'intensifient ils en Méditerranée ?
 
 Depuis 476 et la chute de l'Empire romain d'Occident qui unifiait la Méditerranée, trois civilisations coexistent désormais. La 1$^{ere}$ civilisation qui se forme au nord de la Méditerranée est celle de l'Occident chrétien. À l'est de la Méditerranée, il y a l'Empire romain d'Orient (Empire byzantin). Au sud de la Méditerranée, se trouve un immense monde arabo-musulman. Ces trois civilisations reposent sur des ensembles culturels, homogènes à savoir langues, religions et structures politiques. Ces trois civilisations connaissent des échanges intenses et notamment entre le $X^{eme}$ siècle et le $XIII^{eme}$ siècle. Ces échanges peuvent être conflictuels, culturels ou économiques
@@ -28,7 +28,21 @@ Il s'agit d'un extrait d'un livre d'histoire nommé *Histoire du pèlerinage à 
 - Saccage du Royaume de Dieu
 - Fidèles de Dieu menacés
 - Rémission du péché -> vie céleste + importante que la vie terrestre 
-1) 
-Toutes
-2) 
-Délivrer le Royaume de Dieu
+3)
+Toutes les classes sociales
+4)
+Repousser les Turcs, libérer les chrétiens d'Orient et rendre le pèlerinage plus sûr
+
+L'appel d'Urbain II à la croisade rassemble 150 000 croisés. Ils arrivent à Jérusalem après un très long voyage en 1099, c'est à dire 4 ans après leur départ. Ils ne sont plus que 15 000. Les croisés font le siège de Jérusalem et prennent la ville. Les croisés y fondent 4 états latins d'Orient, le plus prestigieux étant le royaume de Jérusalem, puis le comté de Tripoli, la principauté d'Antioche et le comté d'Edesse. Ils y établissent des châteaux forts (Krak des chevaliers) et des villes. Mais ces quatre états latins d'Orient sont éloignés de l'occident chrétien et sont voisins des musulmans, soit des Turcs, soit des Arabes. Or la ville de Jérusalem est une ville trois fois sainte pour les juifs avec le mur des lamentations, les chrétiens avec l'Eglise du Saint Sépulcre et les musulmans avec le dôme du rocher et la mosquée Al Aqsa, c'est le berceau même du monothéisme. La prise de Jérusalem par les chrétiens déclenche, en 1099, une guerre sainte, le Djihad. En 1144, Edesse tombe aux mains des arabo-musulmans ce qui déclenche la 2$^{eme}$ croisade qui est notamment prêchée par un homme qui s'appelle Bernard de Clervaux. L'empereur du Saint Empire Germanique et le roi de France vont répondre à cet appel. Il s'agit d'un échec. Il y a eu 8 croisades qui s'achèvent avec la mort de Saint Louis. Ils ont tous échoué. Les moines-soldats avaient pour mission de protéger les pèlerins. En 1291, les Etats latins d'Orients disparaissent et donc c'est la fin des croisades. Néanmoins, la Reconquête a eu lieu dans la péninsule ibérique entre les arabo-musulmans et les chrétiens. La péninsule ibérique est conquise au $VIII^{eme}$ siècle aux deux tiers par les conquêtes arabes qui y établissent un califat à Cordoue et un palais notamment établi à Grenade pour le sultan. En 1063, le pape lance ce qu'on va appeler la *Reconquista*, la reconquête de la péninsule ibérique. Ce sont notamment les royaumes ibériques du nord et surtout la Castille qui s'impliquent. La localisation est favorable aux chrétiens. Il s'agit plutôt d'un affrontement territorial que d'une guerre sainte. En 1212, à la bataille de Las Navas de Tolosa, il ne reste plus que le royaume de Grenade aux musulmans. A la suite de la Reconquista, plusieurs royaumes voient le jour, comme le Portugal, la Castille, Leon et Aragon. Il faut attendre 1492 pour que Ferdinand d'Aragon et Isabelle de Castille prennent la ville de Grenade. Christophe Colomb, arrive et demande une audience auprès d'Isabelle. Il veut trouver une nouvelle route pour les Indes et la reine accepte.
+
+Il y a deux types d'affrontements : ceux où les arabo-musulmans sont victorieux et ceux où les chrétiens sont victorieux. Néanmoins il y a aussi des affrontements entre chrétiens
+### B/ Des affrontements entre chrétiens
+La IV$^{eme}$ croisade de 1204 est un exemple de l'affrontement entre chrétiens. Les chrétiens partent pour libérer Jérusalem mais ils n'ont pas les moyens financiers de payer les navires. Venise offre ses services aux croisés en échange, elle détourne la croisade de Jérusalem vers Constantinople. 2000 chrétiens orthodoxes sont massacrés par les croisés. C'est une occasion pour Venise d'écraser son principal concurrent commercial. Un des exemples de ce pillage est à Venise, avec les chevaux de la place Saint-Marc qui viennent de l'hippodrome de Constantinople
+## III- Contacts et échanges en Méditerranée
+### A/ Des contacts commerciaux intenses
+1) Les acteurs du commerce méditerranéen sont les musulmans dans toute l'Afrique du nord et la péninsule Arabique, l'Empire Byzantin (actuelle Grèce et Turquie) et l'Occident Chrétien (Europe de l'ouest).
+2) Le port d'Acre est au sud d'Antioche et au nord-est d'Alexandrie. Il appartient aux états latins d'Orient situé dans l'actuel Moyen-Orient
+3) La pièce comporte à la fois des caractères arabes et une croix chrétienne
+4) Le document 1 nous montre que le sultan Qalâwûn, régnant sur l'Egypte et la Syrie, garantit aux génois la liberté de circulation, de vente et d'achat, ainsi que la sécurité, et leur fournit des points de vente. Par cela, il permet et favorise le commerce avec les génois. Le document 5 quant a lui nous explique que les commerçant tant chrétiens que musulmans bénéficiait de conditions de sécurité, alors même qu'il y avait des guerres entre les 2 civilisations : "Les hommes de guerre s'occupent de leurs conflits, pendant que d'autres sont en paix". Acre est un lieu de rencontre pour les marchands de toutes origines. 
+5) Il s'agit d'un contrat établi en 1277 entre un marchand marseillais (Bernard de Manduel) et un marchand d'Alexandrie (Alfaquin): Alfaquin a reçu 2 quintaux d'aloès, 1 quintal et 80 livres de casse et 2 centenniers de corail. Il doit en échange 135 besants libre de droits de douane et doit les remettre 20 jours après réception des marchandises. Si il ne les remet pas, Bernard de M peut faire ce qu'il veut des marchandises.
+6) 
