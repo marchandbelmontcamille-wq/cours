@@ -61,7 +61,7 @@ $m=C_m\times V=5,0\times 10^{-3}\times 3.0=1,5\times 10^{-2}g$
 $\frac {2.5\times 1} {40}$ 
 Il faut boire 6,25 $cL$ 
 ### 7)
-$C_m=\frac {m} {v}=\frac {10-1.4} {200}=0.043\text { }g\times mL^{-1}$
+$C_m=\frac {m} {v}=\frac {10-1.4} {0.200}=43\text { }g\times mL^{-1}$
 ### 8)
 $C_m=\frac {1.20} {0.4}=3$
 La réponse est $1.84g$

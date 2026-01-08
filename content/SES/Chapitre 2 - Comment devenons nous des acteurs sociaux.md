@@ -4,7 +4,7 @@ draft: false
 tags:
   -
 ---
-## 1- Qu'est ce que la socialisation et comment s'effectue-t-elle ?
+hhghgggy## 1- Qu'est ce que la socialisation et comment s'effectue-t-elle ?
 ### 1) La socialisation est un processus
 cf doc *2.1.1*
 1) Pcq la personne d'abord apprend les éléments de son milieu, les intègre, puis s'adapte a l'environnement. C'est la socialisation.

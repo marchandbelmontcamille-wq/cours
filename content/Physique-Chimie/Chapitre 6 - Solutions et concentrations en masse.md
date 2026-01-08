@@ -1,8 +1,10 @@
 ---
-title: "Chapitre 6 - Solutions et concentrations en masse"
+title: Chapitre 6 - Solutions et concentrations en masse
 draft: false
 tags:
   -
 ---
 cf doc *AD1*
 cf doc *6.1*
+
+On note $s$ la solubilité, c'est à dire la quantité maximale de soluté dissoute dans un volume de solvant
