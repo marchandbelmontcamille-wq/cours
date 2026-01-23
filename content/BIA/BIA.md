@@ -57,4 +57,20 @@ Matériaux de construction :
 
 cadre / lisse / longeron /  nervure
 
- 
+En croisière :
+La pente est nulle
+assiette = incidence
+
+En montée :
+La pente est positive
+assiette > pente > 0
+
+En descente :
+La pente est négative
+L'assiette est souvent négative mais peut être proche de 0 voire positive (pente faible, incidence forte : atterrissage par ex)
+
+$\text {Facteur de charge}=\frac {\text {Poids apparent}} {\text {Poids réel}}$ 
+Voile noir : $6g$
+Voile rouge : $-3g$
+Force d'inertie : $\overrightarrow {F}=M\frac {V^2} {R}$  
+$\text {Vitesse Air}=\text {Vitesse Sol}+\text {Vitesse Vent}$

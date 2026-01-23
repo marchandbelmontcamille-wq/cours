@@ -65,3 +65,8 @@ $C_m=\frac {m} {v}=\frac {10-1.4} {0.200}=43\text { }g\times mL^{-1}$
 ### 8)
 $C_m=\frac {1.20} {0.4}=3$
 La réponse est $1.84g$
+### 10)
+1) Le soluté est de l'éosine et le solvant de l'eau distillée
+2) Il s'agit de dilution
+3) $F=\frac {50} {2,0}=25$
+4) $Cf=\frac {F} {\text {Cm mère}}=1,25\text { }g\times L^{-1}$ 

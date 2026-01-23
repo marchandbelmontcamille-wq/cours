@@ -81,3 +81,20 @@ Le yaourt
 10%
 #### 2)
 60%  
+
+## Chapitre 6
+### 35)
+2) $\overrightarrow {A'B'}/\overrightarrow {CC'}$ 
+3) $\overrightarrow {B'C'}$
+4) 
+### 37)
+1) $C->Y/D->Z/E->D$ 
+2) $\overrightarrow {CY}/\overrightarrow {DZ}/\overrightarrow {ED}$ 
+### 1)
+1) $\overrightarrow {GD}/\overrightarrow {HE}$ 
+### 64)
+B(3;5)
+### 65)
+H(-4;7)
+### 62)
+$\overrightarrow {AB}\begin {pmatrix} -3 \\ 3\end {pmatrix}$ / $\overrightarrow {CA}\begin {pmatrix} 4 \\ 5\end {pmatrix}$ 

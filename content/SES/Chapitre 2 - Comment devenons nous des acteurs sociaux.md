@@ -43,4 +43,6 @@ cf doc *2.1.3.1*
 cf doc *2.2.1.1*
 1) Garçons : Voiture de police / armée, fausses armes, épées, armures médiévales, bricolage Filles : Princesse, etc
 2) Les ""jouets de fille"" sont des jouets
-## 3)
+3) Il s'approprient une identité de genre et des rôles stéréotypés
+4) Les parents font cela parce qu'ils reproduisent les comportements appris quand ils ont été enfants
+5) Ce qui est associé au genre masculin est plus valorisé que ce qui est associé au genre féminin. La socialisation est différenciée selon le genre car les valeurs et normes ne sont pas les mêmes selon le genre de l'enfant. Au cours de la socialisation, les enfant intériorisent le rôle qui leur est assigné en fonction de leur genre. Cette socialisation genrée se fait de manière plus ou moins consciente, plus ou moins volontaire. Les parents reproduisent des modèles, des comportements appris durant leur enfance. Les comportements associés au genre masculin sont souvent plus valorisés que les comportements associés au genre féminin ce qui peut mener à des inégalités.

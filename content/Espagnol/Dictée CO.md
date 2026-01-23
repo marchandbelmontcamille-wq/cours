@@ -1,0 +1,39 @@
+- le public
+- gagner
+- perdre
+- les mentalités
+- la défaite
+- la victoire
+- la joie
+- le bonheur
+- les efforts
+- courir
+- l'émotion
+- jouer
+- le jeu
+- l'entraîneur
+- souffrir
+- une équipe
+- s'amuser
+- les supporters
+- le succès
+---
+- el público
+- ganar
+- perder
+- los mentalidades
+- el fracaso
+- la victoria
+- la alegría
+- la felicidad
+- /
+- correr
+- la emoción
+- jugar
+- el juego
+- el entrenador
+- sufrir
+- un equipo
+- divertirse
+- los partidarios
+- /

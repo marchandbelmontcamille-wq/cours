@@ -47,3 +47,21 @@ La IV$^{eme}$ croisade de 1204 est un exemple de l'affrontement entre chrétiens
 5) Il s'agit d'un contrat établi en 1277 entre un marchand marseillais (Bernard de Manduel) et un marchand d'Alexandrie (Alfaquin): Alfaquin a reçu 2 quintaux d'aloès, 1 quintal et 80 livres de casse et 2 centenniers de corail. Il doit en échange 135 besants libre de droits de douane et doit les remettre 20 jours après réception des marchandises. Si il ne les remet pas, Bernard de Manduel peut faire ce qu'il veut des marchandises reçues par Alfaquin. 
 
 D'après l'ensemble des documents, les échanges commerciaux ne s'arrêtent pas malgré les conflits et l'interdiction théorique entre chrétiens et musulmans. Les échanges commerciaux sont en place en Méditerranée depuis l'Antiquité et s'intensifient même au Moyen-Age. Les grands ports comme Marseille, Acre, Alexandrie ou Constantinople s'enrichissent. Les pouvoirs chrétiens et musulmans encouragent et favorisent même l'établissement de marchands étrangers. Des relations de confiance peuvent ainsi s'établir entre les marchands chrétiens et musulmans. Ces échanges commerciaux illustrent une forme de syncrétisme culturel à la croisée des trois civilisations, l'Occident chrétien, l'Empire byzantin et le monde arabo-musulman. Dominant largement tout le commerce méditerranéen, les républiques maritimes italiennes deviennent de véritables puissances
+### B/ Des contacts culturels et intellectuels
+#### 1. La nécessaire coexistence religieuse
+Malgré les affrontements, les différentes religions coexistent dans le bassin méditerranéen tout au long du Moyen Âge que ce soit dans le monde arabo-musulman ou dans l'Occident Chrétien. Dans le monde arabo-musulman, les monothéistes ont un statut de **dhimmis**. Dans le monde chrétien, en particulier dans la péninsule ibérique, les différentes religions coexistent elles aussi. Ce sont des lois antisémites et discriminatoires qui sont établies en Castille-et-Navarre. En 1492, quand les musulmans sont chassés d'Espagne, les juifs sont également chassés. La coexistence religieuse ne signifie pas la tolérance religieuse. Le seul exemple de tolérance religieuse est celui de la Sicile, au départ byzantine, musulmaen, puis normande
+
+| Influence normande | Influence musulmane                                             | Influence byzantine        |
+| ------------------ | --------------------------------------------------------------- | -------------------------- |
+| Ecriture latine    | Ecriture arabe                                                  | Ecriture grecque           |
+| Lion de Normandie  | Chrétiennes portent même parures que femmes musulmanes (voiles) | Adminsitration plurilingue |
+|                    | Musulmans à la cour du roi de Sicile                            | Mosaiques                  |
+|                    | Présence de souks et de mosquées                                |                            |
+Le royaume de Sicile est un exemple unique de syncrétisme et d'une relative tolérance à l'égard de toutes les religions dans la méditerranée médiévale. Dans le reste de la méditerranée, les mélanges culturels sont plus rares et surtout strictement interdits
+#### 2. Les savoirs circulent
+Les chrétiens d'Occident ont une véritable curiosité pour les savoirs musulmans. En effet, le monde arabo-musulman possède de nombreux manuscrits de l'antiquité grecque et latine et est également une passerelle vers d'autres civilisation. Par conséquent, les savoirs circulent entre les trois civilisations comme de nouveaux mots de vocabulaire, de nouveaux produits, de nouvelles technologies. L'art est influencé par le monde arabo-musulman. Il y a aussi une curiosité pour la religion musulmane. En 1142, le Coran est traduit pour la première fois en latin. De la même manière, plusieurs savants musulmans sont connus du monde chrétien :
+- Al-Khwârizmî, inventeur des algorithmes
+- Ibn Sina, un des pères de la médecine
+
+#### Bilan :
+C'est le monopole des marchands vénitiens et la prise de Constantinople qui pousse les européens à trouver d'autres routes vers les Indes et l'Asie. A partir du XV$^{eme}$ siècle, les échanges en Méditerranée deviennent secondaires par rapport au nouveau centre de gravité du monde : l'Océan Atlantique
