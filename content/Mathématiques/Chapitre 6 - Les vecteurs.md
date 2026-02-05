@@ -1,4 +1,3 @@
-
 ## I- Notion de vecteur
 ### 1) Définition
 >[!FAQ] Définition :
@@ -17,7 +16,8 @@
 >>- Son sens : De $A$ vers $B$
 >>- Sa norme notée $||\overrightarrow {AB}||$ : la longueur AB
 >
->>[!TIP] Remarque : On peut également noter un vecteur avec une seule lettre minuscule
+>>[!TIP] Remarque : 
+>>On peut également noter un vecteur avec une seule lettre minuscule
 >>Par exemple : $\overrightarrow {u}$
 >>La norme du vecteur $\overrightarrow {u}$ se note $||\overrightarrow {u}||$
 ### 2) Egalités de deux vecteurs

@@ -73,4 +73,4 @@ MAIS ATTENTION ! L’ennemie est toujours à l’offensive. Fin 2023, le mur du
 
 Les centres de production tournent actuellement à capacité maximale pour repousser cette attaque. En parallèle, une contre-offensive est en cours depuis 2022 en Uruguay, avec des pupes panaméens.
 
-2383 mots - 14611 caractères
+2392 mots - 14649 caractères

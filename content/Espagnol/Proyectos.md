@@ -1,0 +1,1 @@
+Las protagonistas, Rut y Atena son dos chicas muy creativas. La primera quiere ser actriz y a la segunda le apetece cantar y componer canciones

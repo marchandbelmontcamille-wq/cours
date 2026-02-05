@@ -98,3 +98,24 @@ B(3;5)
 H(-4;7)
 ### 62)
 $\overrightarrow {AB}\begin {pmatrix} -3 \\ 3\end {pmatrix}$ / $\overrightarrow {CA}\begin {pmatrix} 4 \\ 5\end {pmatrix}$ 
+### 118)
+$\overrightarrow {BA}+\overrightarrow {CD}+\overrightarrow {AC}+\overrightarrow {DB}$
+$\overrightarrow {BA}+\overrightarrow {AC}+\overrightarrow {CD}+\overrightarrow {DB}$
+$\overrightarrow {BC}+\overrightarrow {CD}+\overrightarrow {DB}$
+$\overrightarrow {BD}+\overrightarrow {DB}$
+$\overrightarrow {B}$
+$\overrightarrow {0}$
+### 119)
+$O=S$ 
+### 120)
+$\overrightarrow {BD}\begin {pmatrix}2\\4\end {pmatrix}$ / $\overrightarrow {CE}\begin {pmatrix}-2\\-2\end {pmatrix}$
+### 88)
+$\overrightarrow {QP}=\overrightarrow {MN}\begin {pmatrix} 5\\3\end {pmatrix}$ 
+## Feuille d'exercices 1 chap 7
+### 1)
+a, c, e, f
+### 2)
+## FE2 chap 7
+1)
+a)
+![[tableau05_04_55.png]]

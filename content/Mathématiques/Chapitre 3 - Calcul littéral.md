@@ -11,6 +11,7 @@ $\frac {4} {3} \times \frac {2} {7} = \frac {8} {21}$
 $\frac {4} {3} + \frac {2} {7} = \frac {28} {21} + \frac {6} {21} = \frac {34} {21}$
 $\frac {\frac {4} {3}} {\frac{2} {7}} = \frac {4} {3} \times \frac {7} {2} = \frac {28} {6} = \frac {14} {3}$
 ## II - Expressions algébriques
+
 >[!FAQ] Définition : *Expressions algébriques*
 >*Développer un produit*, c'est l'écrire sous forme d'une somme.
 *Factoriser une somme*, c'est l'écrire sous forme d'un produit.
