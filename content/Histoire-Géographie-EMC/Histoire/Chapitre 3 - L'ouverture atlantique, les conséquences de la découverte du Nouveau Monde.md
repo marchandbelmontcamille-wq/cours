@@ -24,6 +24,13 @@ Quand les Européens débarquent, il existe déjà plusieurs civilisations amér
 cf *manuel p116-117*
 
 1)
-Hernan Cortès débarque, va voir Moctezuma qui lui offre de l'or et des femmes. Ensuite, quand Cortès s'en va, lui et ses proches sont massacrés et leurs idoles brulées.
-2)
+Hernan Cortès débarque, va voir Moctezuma qui lui offre de l'or et des femmes. En effet une prophétie dit que les dieux arriveraient par bateau. Après, il y a un temps d'observation pour comprendre l'Empire Aztèque. Cortès se rend jusqu'à la capitale de l'Empire. 
+3)
+La Malinche est la compagne de Cortès et elle est la traductrice
 
+En 1521, la capitale tombe et les aztèques n'ont plus de moyens de repousser les Espagnols à la mer. L'Empereur est exécuté et la noblesse espagnole remplace la noblesse aztèque. Ils comprennent également que la religion sert de ciment à l'empire aztèque. Elle est donc éradiquée et remplacée par le christianisme.
+
+La conquête est donc rapide et facile pour les conquistadors
+## II- Les conséquences de la découverte du "Nouveau Monde" pour les populations colonisées
+### A/ Des populations amérindiennes décimées
+Les populations amérindiennes sont décimées par l'arrivée des espagnols. Cela provoque la quasi disparition de la culture amérindienne. En effet, les amérindiens sont confrontés à de nouvelles maladies apportées par les européens comme la variole. La violence de la conquête explique aussi les nombreux massacres

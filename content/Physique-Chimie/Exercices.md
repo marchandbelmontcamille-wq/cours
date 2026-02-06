@@ -70,3 +70,34 @@ La réponse est $1.84g$
 2) Il s'agit de dilution
 3) $F=\frac {50} {2,0}=25$
 4) $Cf=\frac {F} {\text {Cm mère}}=1,25\text { }g\times L^{-1}$ 
+## FE1 Chap 8
+### 2)
+1) Le système est le skieur et le référentiel est celui terrestre
+2) Il a un mouvement rectiligne uniforme 
+3) D'après le principe d'inertie, le mouvement étant rectiligne et uniforme, les forces se compensent
+4) Il y a le poids $\overrightarrow {P}$ , la force de réaction de la piste $\overrightarrow {R}$ et la force de frottement $\overrightarrow {f}$
+$\overrightarrow {P}$ :
+- direction : verticale
+- sens : vers le bas
+- valeur : $P=m\times g=70\times 10=7,0\times 10^{2}N$ 
+$\overrightarrow {R}$ :
+- direction : perpendiculaire à la piste
+- sens : vers le haut
+- valeur : R en N ?
+$\overrightarrow {f}$ :
+- direction : selon la piste
+- sens : opposé au mouvement du skieur
+- valeur : f en N ?
+
+5)
+$C$ : Skieur
+$p$ : Piste
+Z : $\overrightarrow {-P}$
+$P$ : $\overrightarrow {P}$ 
+$f$ : $\overrightarrow {f}$ 
+$R$ : $\overrightarrow {R}$
+![[Pasted image 20260205122149.png]]
+
+### 3)
+Les forces sont son poids $\overrightarrow {P}$ , la tension $\overrightarrow {T}$ du fil et la force magnétique. D'après le principe d'inertie, si la bille est à l'équilibre, les forces exercées sur la bille se compensent.
+Or, $\overrightarrow {T}+\overrightarrow {F_{\text {magnétique}}}=\overrightarrow {P}$ 

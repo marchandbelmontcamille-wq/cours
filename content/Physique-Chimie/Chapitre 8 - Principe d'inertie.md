@@ -30,5 +30,6 @@ Les distances entre les positions successives sont constantes ainsi que la duré
 Les forces se compensent
 $\overrightarrow{P}+\overrightarrow{R}=\overrightarrow{0}$
 
-Contraposée du principe d'inertie :
-Si les forces qui s'exercent sur un système ne se compensent pas, alors le système n'est ni immobile, ni en MRU
+>[!FAQ] Contraposée du principe d'inertie :
+>Si les forces qui s'exercent sur un système ne se compensent pas, alors le système n'est ni immobile, ni en MRU
+

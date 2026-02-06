@@ -24,3 +24,5 @@ Therefore, because of their 3 reasons, decolonisation became unevitable
 | no war of independance |                                                        |
 | stable transition      |                                                        |
 | political success      |                                                        |
+# 3. The transition to the british empire
+[[Notes Docu]]

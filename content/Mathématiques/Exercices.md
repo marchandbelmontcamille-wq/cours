@@ -116,6 +116,23 @@ $\overrightarrow {QP}=\overrightarrow {MN}\begin {pmatrix} 5\\3\end {pmatrix}$
 a, c, e, f
 ### 2)
 ## FE2 chap 7
-1)
+### 1)
 a)
-![[tableau05_04_55.png]]
+![[Pasted image 20260205141810.png]]
+b)
+![[Pasted image 20260205141706.png]]
+c)
+![[Pasted image 20260205142134.png]]
+### 2)
+a)
+![[Pasted image 20260205142301.png]]
+b)
+![[Pasted image 20260205142353.png]]
+c)
+![[Pasted image 20260205144953.png]]
+### 3)
+a)
+![[Pasted image 20260205144840.png]]
+b)
+![[Pasted image 20260205143311.png]]
+### 4)
