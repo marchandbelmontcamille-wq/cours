@@ -15,7 +15,7 @@ Client Pronote moderne en ligne de commande (TUI), construit avec [Textual](http
 
 ## 🚀 Installation
 
-1. **Téléchargez le fichier ZIP** : [[Pynote_V1.0.0.zip]]
+1. **Téléchargez le fichier ZIP** : [[Pynote_V1.1.0.zip]]
 
 2. Décompressez le fichier ZIP où vous stockez vos programmes(Recommandation : `C:/Users/Utilisateur/AppData/Local/Pynote`) 
 
@@ -64,6 +64,9 @@ python Pynote.py
 
 MIT License - Utilisez ce projet librement.
 
+## Changelogs
+- V1.0.0 : Version initiale
+- V1.1.0 : Ajout de la page des paramètres
 ## 🙏 Crédits
 
 - [pronotepy](https://github.com/bain3/pronotepy) - API Python non-officielle pour Pronote

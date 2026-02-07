@@ -1,17 +1,7 @@
 {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "release_date": "2026-02-07",
     "download_url": "https://cours.cmarbel15.xyz/Pynote/Pynote",
-    "changelog": "🎉 Version initiale de Pynote\n\n✨ Fonctionnalités:\n- Dashboard avec résumés EDT, Notes, Devoirs\n- Navigation emploi du temps par semaine\n- Notes avec sélection de période (trimestre/semestre)\n- Devoirs sur 14 jours\n- Sauvegarde sécurisée des identifiants\n- Système de mise à jour automatique\n- Interface optimisée pour PC portables",
-    "min_python_version": "3.8",
-    "files": {
-        "Pynote.py": {
-            "description": "Application principale",
-            "required": true
-        },
-        "requirements.txt": {
-            "description": "Dépendances Python",
-            "required": true
-        }
-    }
+    "changelog": "✨ Nouvelle page de paramètres !\n\n• ⚙️ Page de paramètres complète accessible avec la touche 'S'\n• 📚 Modification du type de période (Trimestre/Semestre)\n• 👤 Gestion des identifiants (modifier/supprimer)\n• 🎨 Basculer entre thème clair et sombre\n• ℹ️ Informations système\n• ⚠️ Options de réinitialisation et déconnexion\n\nAméliorations :\n• Interface intuitive et organisée par sections\n• Retour au dashboard avec Échap\n• Affichage du statut actuel pour chaque paramètre",
+    "min_python_version": "3.8"
 }
