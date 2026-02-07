@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
     "release_date": "2026-02-07",
-    "download_url": "https://ton-site.fr/pynote/download",
+    "download_url": "https://cours.cmarbel15.xyz/Pynote/Pynote",
     "changelog": "🎉 Version initiale de Pynote\n\n✨ Fonctionnalités:\n- Dashboard avec résumés EDT, Notes, Devoirs\n- Navigation emploi du temps par semaine\n- Notes avec sélection de période (trimestre/semestre)\n- Devoirs sur 14 jours\n- Sauvegarde sécurisée des identifiants\n- Système de mise à jour automatique\n- Interface optimisée pour PC portables",
     "min_python_version": "3.8",
     "files": {
