@@ -15,35 +15,7 @@ Client Pronote moderne en ligne de commande (TUI), construit avec [Textual](http
 
 ## 🚀 Installation
 
-1. **Téléchargez le fichier ZIP** : [[Pynote_V1.1.0.zip]]
-
-2. Décompressez le fichier ZIP où vous stockez vos programmes(Recommandation : `C:/Users/Utilisateur/AppData/Local/Pynote`) 
-
-3.  Ouvrez un terminal dans le dossier de Pynote
-
-4. **Installez les dépendances**
-   ```bash
-   pip install --user -r requirements.txt
-   ```
-
-## ▶️ Utilisation
-
-lancez dans le terminal :
-```bash
-python Pynote.py
-```
-
-## 🔍 Ajouter à la barre de recherche Windows
-
-1. Faites clic droit sur `Pynote.py`, clique sur `Plus d'options`, puis sur `Créer un raccourci`
-
-2. Renommez le raccourci en `Pynote` (facultatif) 
-
-3. `Win + R` → tape `shell:programs` → Entrée
-
-4. Copiez le raccourci dans ce dossier
-
-5. Tapez "Pynote" dans la recherche Windows !
+Allez sur la page de téléchargement : [[V1.1.0]]
 ## 🔒 Sécurité
 
 - Option "Se souvenir de moi" stocke les identifiants dans `~/.pynote_credentials.json`
@@ -62,12 +34,22 @@ python Pynote.py
 
 ## 📄 Licence
 
-MIT License - Utilisez ce projet librement.
+© 2026 Camille Marchand Belmont. Tous droits réservés.
+Consultation et usage personnel autorisés. Toute modification
+ou redistribution nécessite l'autorisation écrite de l'auteur.
+[Lire la licence complète]()
 
 ## Changelogs
-- V1.0.0 : Version initiale
-- V1.1.0 : Ajout de la page des paramètres
+##### V1.0.0
+Version initiale
+##### V1.1.0
+Ajout de la page des paramètres
+##### V1.1.1 (en préparation)
+- Réglage d'un bug d'affichage sur la partie EDT du dashboard
+- Amélioration de la compatibilité avec les proxies scolaires
+- Ajout de la license
 ## 🙏 Crédits
-
+- Camille Marchand Belmont - Conception, direction et développement
+- [Claude](https://claude.ai) (Anthropic) - Assistance au développement
 - [pronotepy](https://github.com/bain3/pronotepy) - API Python non-officielle pour Pronote
 - [Textual](https://textual.textualize.io/) - Framework TUI moderne pour Python
