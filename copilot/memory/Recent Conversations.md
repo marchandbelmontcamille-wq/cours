@@ -1,0 +1,3 @@
+## Vérification du texte Le Kraken
+**Time:** 2026-02-09 13:39
+**Summary:** L'utilisateur demande une vérification complète (cohérence, orthographe, grammaire) de son texte créatif intitulé "Le Kraken", un lai médiéval mettant en scène le capitaine Livain et le sorcier Arthur face à un calamar géant. L'assistant relève des corrections d'orthographe (traits d'union, ponctuation), l'absence systématique de guillemets français dans les dialogues, une répétition suspecte d'un passage, des inexactitudes de vocabulaire maritime ("plancher" au lieu de "pont") et une erreur sur l'origine du mot "Kraken" (norrois, non breton), tout en soulignant la qualité de l'atmosphère et de la narration.
