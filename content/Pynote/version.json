@@ -1,7 +1,7 @@
 {
-    "version": "1.1.0",
-    "release_date": "2026-02-07",
+    "version": "1.1.1",
+    "release_date": "2026-02-09",
     "download_url": "https://cours.cmarbel15.xyz/Pynote/Pynote",
-    "changelog": "✨ Nouvelle page de paramètres !\n\n• ⚙️ Page de paramètres complète accessible avec la touche 'S'\n• 📚 Modification du type de période (Trimestre/Semestre)\n• 👤 Gestion des identifiants (modifier/supprimer)\n• 🎨 Basculer entre thème clair et sombre\n• ℹ️ Informations système\n• ⚠️ Options de réinitialisation et déconnexion\n\nAméliorations :\n• Interface intuitive et organisée par sections\n• Retour au dashboard avec Échap\n• Affichage du statut actuel pour chaque paramètre",
+    "changelog": "🔧 Corrections et améliorations v1.1.1\n\n• 📜 Validation de la licence au premier lancement\n• 🐛 Correction du bug EDT du dashboard (affichait toujours 'pas de cours')\n• 🔒 Ajout de pip-system-certs pour la compatibilité SSL",
     "min_python_version": "3.8"
 }

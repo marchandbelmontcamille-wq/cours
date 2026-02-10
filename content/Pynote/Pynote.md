@@ -15,7 +15,7 @@ Client Pronote moderne en ligne de commande (TUI), construit avec [Textual](http
 
 ## 🚀 Installation
 
-Allez sur la page de téléchargement : [[V1.1.0]]
+Allez sur la page de téléchargement : [[V1.1.1]]
 ## 🔒 Sécurité
 
 - Option "Se souvenir de moi" stocke les identifiants dans `~/.pynote_credentials.json`
