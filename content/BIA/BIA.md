@@ -4,7 +4,7 @@ draft: false
 tags:
   -
 ---
-Poussée d'Archimède : $\overrightarrow {Poussée}=m_{volume fluide déplacé}$
+Poussée d'Archimède : $\overrightarrow {Poussée}=m_{\text {volume fluide déplacé}}$
 air : $1kg=1m^3$ 
 gaz légers : Hydrogène et Hélium
 Forces : Portance vers le haut / Traction vers l'avant / Poids vers le bas / Trainée vers l'arrière
@@ -73,4 +73,38 @@ $\text {Facteur de charge}=\frac {\text {Poids apparent}} {\text {Poids réel}}$
 Voile noir : $6g$
 Voile rouge : $-3g$
 Force d'inertie : $\overrightarrow {F}=M\frac {V^2} {R}$  
-$\text {Vitesse Air}=\text {Vitesse Sol}+\text {Vitesse Vent}$
+$\text {Vitesse air}=\text {Vitesse sol}+\text {Vitesse vent}$
+
+L'hélice vient de l'hélice navale
+Constituée de plusieurs pales :
+- 2 = bipale
+- 3 = tripale
+- 4 = quadripale
+La forme des pales est plus ou moins complexe
+Construction en :
+- bois
+- métal
+- matériau composite
+Pas de l'hélice = avance dans l'air en un tour
+$P=2\times \pi \times r \times tan\text{(Cr)}$
+- Pas fixe => Optimisé pour la croisière
+- Pas variable = Changement de pas en vol
+
+Moteurs à piston :
+- 1. Admission
+- 2. Compression
+- 3. Combustion - détente
+- 4. Echappement
+4 à 8 cylindres. Jusqu'à 24
+Le mélange air - carburant peut se faire par un carburateur ou directement par injection dans le cylindre
+Contrôle du fonctionnement :
+- Tachymètre
+- T° et P d'huile
+- P carburant ou débit et p admission
+
+Turboréacteurs :
+Monocorps
+Entrée d'air -> Compresseur -> Chambre de combustion -> Turbine -> Tuyère
+Double corps, on ajoute un second flux d'air
+Permet de diminuer la consommation et augmente de façon la poussée à peu de frais
+

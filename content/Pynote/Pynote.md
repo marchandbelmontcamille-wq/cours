@@ -44,10 +44,13 @@ ou redistribution nécessite l'autorisation écrite de l'auteur.
 Version initiale
 ##### V1.1.0
 Ajout de la page des paramètres
-##### V1.1.1 (en préparation)
+##### V1.1.1
 - Réglage d'un bug d'affichage sur la partie EDT du dashboard
-- Amélioration de la compatibilité avec les proxies scolaires
+- Patch pour la compatibilité avec les proxies scolaires (solution temporaire avec pip-system-certs)
 - Ajout de la license
+##### V1.1.2 (En préparation)
+- Correction de l'affichage de la moyenne de la période actuelle sur la partie Notes du dashboard
+- Mise en place de la compatibilité avec les proxies scolaires (solution durable avec trustcore)
 ## 🙏 Crédits
 - Camille Marchand Belmont - Conception, direction et développement
 - [Claude](https://claude.ai) (Anthropic) - Assistance au développement

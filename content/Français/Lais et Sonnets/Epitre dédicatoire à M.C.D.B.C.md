@@ -1,0 +1,7 @@
+En se plaçant sous le patronage de son amie aristocrate, Clémence de Bauges, L.L s'assure une caution morale pour ses oeuvres, dont elle écarte tout soupçon d'impudicité. Par l'insistance sur leur provenance sociale, elle se rattache à l'école poétique lyonnaise marquée par la Renaissance italienne (Pétrarque) = Stratégie autoriale
+
+Ce texte préfaciel ouvre l'oeuvre et en conditionne la lecture = il est programmatique. Il annonce les buts et motivations de l'oeuvre qui suit
+
+1) LL recourt au topos humilitatis dans le but de favoriser la bienveillance et l'indulgence du lecteur. Elle dit ainsi servir plus d'exemple, en incitant les femmes à ose écrire et publier, que de modèle. En s'adressant aux "vertueuses dames", elle suggère que son oeuvre est morale. Elle souligne d'ailleurs le risque encouru par les femmes qui publiaient : la honte, la réprobation publique, dont la détourne sa dédicataire. C'est une stratégie car elle a assez d'assurance pour demander (et obtenir) le privilège royal d'impression
+2) Elle s'adresse aux "vertueuses dames", groupe féminin dans lequel elle s'inclut en s'exprimant à la P1. Elle emploie la modalité injonctive.
+3) Si ce texte est volontariste, il s'inscrit néanmoins dans une quête d'égalité entre les sexes. La femme est la "compagne" de l'homme, ce qui la place au même rang que lui, et leur compétition est une saine émulation. Cet enthousiasme est humaniste. Néanmoins, ceci est  tempéré par le fait qu'elle soit obligée de justifier son geste : si elle écrit, ce n'est qu'un "honnête passe-temps" pour fuir l'oisiveté

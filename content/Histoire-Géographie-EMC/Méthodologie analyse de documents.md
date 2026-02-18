@@ -1,0 +1,18 @@
+- 1 ou 2 doc(s) max
+- 1 sujet
+- 1 consigne
+- Expliquer le(s) doc(s) à l'aide de connaissances
+	- $\ne$ dissertation
+	- $\ne$ éviter paraphrase
+- Equilibre entre citations doc(s) et connaissances
+- Intro, développement construit et conclusion
+- Mise en page identique à dissertation
+- Intro :
+	- Accroche
+	- Analyse sujet
+	- Présence des docs (nature, auteur, date)
+	- Problématique
+	- Annonce du plan
+- Conclusion :
+	- Réponse à la problématique
+	- Montrer les limites du document

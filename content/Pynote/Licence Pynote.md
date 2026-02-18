@@ -1,5 +1,5 @@
 **© 2026 Camille Marchand Belmont. Tous droits réservés.**
-*Dernière mise à jour : 9 février 2026*
+*Dernière mise à jour : 13 février 2026*
 
 ---
 
@@ -31,10 +31,6 @@ L'Auteur est à l'origine de :
 L'intelligence artificielle a été utilisée comme **outil de
 développement**, au même titre qu'un environnement de développement
 intégré (IDE) ou toute autre assistance technique.
-
-Conformément aux [Conditions d'utilisation d'Anthropic](https://www.anthropic.com/policies/consumer-terms),
-l'Auteur est propriétaire des sorties générées dans le cadre du
-développement de ce Logiciel.
 
 **L'ensemble de la propriété intellectuelle de Pynote appartient
 exclusivement à l'Auteur.**
@@ -84,11 +80,9 @@ sera crédité dans la section « Crédits » s'il le souhaite.
 
 ## 6. Dépendances tierces
 
-Le Logiciel utilise des bibliothèques tierces
-([pronotepy](https://github.com/bain3/pronotepy),
-[Textual](https://textual.textualize.io/)) soumises à leurs
+Le Logiciel utilise des bibliothèques tierces soumises à leurs
 propres licences respectives. La présente licence ne s'applique
-qu'au **code original de Pynote**.
+qu'au **code original de Pynote**. La liste de ces bibliothèques est disponible sur la page de téléchargement.
 
 ---
 

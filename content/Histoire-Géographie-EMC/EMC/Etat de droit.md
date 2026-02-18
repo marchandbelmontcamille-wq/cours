@@ -1,3 +1,4 @@
+Point actu 12 mars
 ## Introduction : Qu'est ce que l'Etat de droit ?
 1) 
 >[!FAQ] Définition : *Dictature*
@@ -18,4 +19,6 @@ Le Conseil Constitutionnel a 9 membres "Sages de la République"
 Ils vérifient la conformité des lois par rapport à la Constitution
 	par ex : Etat d'urgence COVID-19
 4) 
-Chaque citoyen engagé dans une action en justice, s'il estime qu'une loi qui va lui être appliquée est contraire à la Constitution, peut saisir le Conseil Constitutionnel
+Chaque citoyen engagé dans une action en justice, s'il estime qu'une loi qui va lui être appliquée est contraire à la Constitution, peut saisir le Conseil Constitutionnel. La QPC demande au CC de redéfinir le cadre de la détention provisoire
+5) 
+Cette affaire montre que l'Etat lui même peut être condamné. L'Etat n'est donc pas au dessus des lois

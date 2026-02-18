@@ -71,4 +71,53 @@ T4
 >>[!FAQ] Propriété : *Linéarité de la moyenne*
 >>Si toutes les valeurs de la série sont multipliées par une même valeur $a$, alors la moyenne est multipliée est multipliée par $a$.
 >>Si on ajoute une valeur $b$ à toutes les valeurs de la série, alors la moyenne est augmenté de $b$
+### 2) Ecart-type
+>[!FAQ] Définition :
+>La variance d'une série statistique est le réel $V$ défini par :
+>$V=\frac {n_1\times (x_1-\bar {x})^2+n_2\times (x_2-\bar {x})^2+...+n_k\times (x_k-\bar {x}) } {n_1+n_2+...+n_k}$
+>L'écart-type d'une série est le réel $\sigma$ défini par :
+>$\sigma=\sqrt {V}$
 
+>[!TIP] Remarque :
+>L'écart-type mesure la dispersion des valeurs autour de la moyenne
+>Plus il est grand, plus les valeurs sont dispersées
+>Plus il est faible, plus les valeurs sont homogènes
+## III- Médiane et écart-interquartile
+
+### 1) Médiane
+>[!FAQ] Définition :
+>L'effectif cumulé croissant d'une valeur est la somme des effectifs de toutes les valeurs qui sont inférieures ou égales à cette valeur.
+>>[!TIP] Remarque :
+>>On définit de même la fréquence cumulée croissante
+>
+>>[!FAQ] Définition :
+>>Dans une série statistique de $n$ valeurs ordonnées dans l'ordre croissant, la médiane, notée notée $Me$ est un nombre qui sépare la série en deux série de même effectif
+>>- Si $n$ est impair, la médiane est la valeur du milieu, de rang $\frac {n+1} {2}$
+>>- Si $n$ est pair, la médiane est la moyenne des deux valeurs
+>
+>>[!EXAMPLE] Exemple :
+>>10, 11, 12, 13, 14, 15, 16
+>>Il y a 7 valeurs et 7 est impair
+>>$\frac {7+1} {2}=4$ La médiane est la 4$^{eme}$ valeur $Me=13$
+>>
+>>Il y a 30 valeurs et 30 est pair
+>>La médiane est la moyenne de la 15$^{eme}$ et de la 16$^{eme}$ valeur
+>>$Me=\frac {3+4} {2}=3,5$
+### 2) Ecart interquartile
+>[!FAQ] Définition :
+>Le premier quartile est la plus petite valeur de la série telle que au moins un quart des valeurs lui soient inférieures ou égales. On le note $Q_1$
+>Le troisième quartile est la plus petite valeur de la série telle que au moins trois quart des valeurs lui soient inférieures ou égales. On le note $Q_3$
+>>[!TIP] Méthode :
+>>Les valeurs doivent être ordonnées dans l'ordre croissant
+>>On note $n$ l'effectif total
+>>Pour $Q_1$, on calcule $\frac {1} {4}n$, on arrondit à l'entier supérieur que l'on note $K$ et on prend la valeur de rang $K$
+>>Pour $Q_3$, on calcule $\frac {3} {4}n$, on arrondit à l'entier supérieur que l'on note $K$ et on prend la valeur de rang $K$
+>
+>>[!FAQ] Définition :
+>>L'écart interquartile est la différence $Q_3-Q_1$
+>
+>>[!TIP] Remarque :
+>>Environ 50% des valeurs sont comprises entre $Q_1$ et $Q_3$
+## IV- Compléments
+>[!FAQ] Définition :
+>L'étendue est la différence entre la plus grande valeur et la plus grande valeur

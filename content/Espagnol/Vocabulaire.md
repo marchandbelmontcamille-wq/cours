@@ -5,127 +5,90 @@ tags:
   -
 ---
 
-## Mots en espagnol
-1) protagonistas﻿
-
-2) habitantes﻿
-
-3) artículo﻿
-
-4) trata de﻿
-
-5) relación﻿
-
-6) convivencia﻿
-
-7) superficie﻿
-
-8) monarquía constitucional / parlamentario﻿
-
-9) primer ministro﻿
-
-10) ciudades autónomas
-
-11) padece
-
-12) chaval
-
-13) autoretrato
-
-14) vaca
-
-15) voz
-
-16) gemelos
-
-17) metodo
-
-18) angustia
-
-19) desanimo
-
-20) alegria
-
-21) gozo
-
-22) festejar
-
-23) disfrutar
-
-24) lograr
-
-25) desgracia
-
-26) revés
-
-27) coronarse
-
-28) abrazar
-
-29) enojo
-
-30) temor
-
-31) regocijo
-## Mots en français
-1) personnages principaux
-
-2) habitants
-   
-3) article
-
-4) parle de
-
-5) relation
-   
-6) vie en communauté
-
-7) superficie
-   
-8) monarchie constitutionnelle / parlementaire
-   
-9) Premier ministre
-
-10) villes autonomes
-
-11) souffrir
-
-12) enfant
-
-13) autoportrait
-
-14) vache
-
-15) voix
-
-16) jumeaux
-
-17) méthode
-
-18) angoisse  
-  
-19) découragement  
-  
-20) joie  
-  
-21) bonheur  
-  
-22) célébrer  
-  
-23) profiter  
-  
-24) réussir  
-  
-25) malheur  
-  
-26) revers  
-  
-27) se couronner  
-  
-28) embrasser  
-  
-29) colère  
-  
-30) peur  
-  
-31) réjouissance
+|Español|Français|
+|---|---|
+|el fútbol|le football|
+|el balón|le ballon|
+|el jugador / la deportista|le joueur / la sportive|
+|el baloncesto|le basketball|
+|el rugby|le rugby|
+|el tenis|le tennis|
+|el ski|le ski|
+|el partido|le match|
+|el equipo|l'équipe|
+|el árbitro|l'arbitre|
+|el entrenador|l'entraîneur|
+|la piscina|la piscine|
+|una camiseta|un maillot|
+|zapatillas deportivas|chaussures de sport|
+|la copa|la coupe|
+|la liga|la ligue|
+|la selección|la sélection|
+|los aficionados / los partidarios|les supporters|
+|el público|le public|
+|la lesión|la blessure|
+|la enfermería|l'infirmerie|
+|ganar|gagner|
+|perder|perdre|
+|jugar|jouer|
+|correr|courir|
+|nadar|nager|
+|bailar|danser|
+|marcar|marquer|
+|montar en bici|faire du vélo|
+|entrenar|entraîner|
+|sufrir|souffrir|
+|divertirse|s'amuser|
+|corredor|coureur|
+|saltador|sauteur|
+|sufridor|souffrant|
+|nadador|nageur|
+|seleccionador|sélectionneur|
+|la alegría|la joie|
+|la felicidad|le bonheur|
+|el gozo|le bonheur / la jouissance|
+|el regocijo|la réjouissance|
+|la angustia|l'angoisse|
+|el desánimo|le découragement|
+|el enojo|la colère|
+|el temor|la peur|
+|la emoción|l'émotion|
+|la desgracia|le malheur|
+|el revés|le revers|
+|el fracaso|la défaite / l'échec|
+|la victoria|la victoire|
+|festejar|célébrer|
+|disfrutar|profiter|
+|lograr|réussir|
+|coronarse|se couronner|
+|abrazar|embrasser|
+|el toro|le taureau|
+|el caballo|le cheval|
+|el torero|le torero|
+|el picador|le picador|
+|los peones|les assistants du torero|
+|el ruedo|l'arène|
+|lidiar / torear|combattre le taureau|
+|los encierros|les lâchers de taureaux|
+|el maltrato|la maltraitance|
+|monarquía constitucional|monarchie constitutionnelle|
+|primer ministro|Premier ministre|
+|ciudades autónomas|villes autonomes|
+|los habitantes|les habitants|
+|la superficie|la superficie|
+|la convivencia|la vie en communauté|
+|los protagonistas|les personnages principaux|
+|el artículo|l'article|
+|trata de|parle de|
+|la relación|la relation|
+|padece|souffrir (de)|
+|chaval|enfant / gamin|
+|autoretrato|autoportrait|
+|la vaca|la vache|
+|la voz|la voix|
+|los gemelos|les jumeaux|
+|el método|la méthode|
+|el apodo|le surnom|
+|el juego|le jeu|
+|los esfuerzos|les efforts|
+|las mentalidades|les mentalités|
