@@ -19,3 +19,21 @@ Le prix d'équilibre est de 6€. Il permet de satisfaire à la fois les vendeur
 >[!FAQ] Définition : *Prix d'équilibre*
 >C'est le prix pour lequel les quantités offertes sont égales à celles demandées
 
+Si le prix est trop élevé, il y aura trop d'offreurs pour pas assez d'acheteurs. C'est de la surproduction. Les vendeurs feront de la mise en stock
+
+Si le prix est trop bas, il y aura trop d'acheteurs pour pas assez d'offreurs. C'est de la surconsommation. C'est une pénurie.
+
+La loi de l'offre et de la demande permet au marché d'avoir un prix d'équilibre qui est le prix pour lequel les quantités offertes sont égales aux quantités demandées
+## 2- L'équilibre du marché peut évoluer
+### 1) Quels sont les effets de l'évolution de la demande et de l'offre
+#### Marché des glaces
+##### Cas n°1
+C'est l'été, il fait très chaud
+Pour chaque prix donné, il y a plus de clients prêts à acheter
+Cela entraîne une hausse du prix d'équilibre et donc des quantités d'équilibre. Quand la demande augmente, le prix augmente
+
+Il y a d'autres exemples, comme les fleurs durant la Saint Valentin, les masques durant le COVID19. Cela peut aussi être un effet de mode, comme le chocolat de Dubaï
+##### Cas n°2
+Grèves des producteurs / fournisseurs
+La courbe d'offre se déplace vers la gauche car pour chaque prix donné, il y a moins de quantités offertes ce qui fait augmenter le prix d'équilibre
+Il y a d'autres exemples comme la guerre en Ukraine ce qui a fait monter les prix du gaz

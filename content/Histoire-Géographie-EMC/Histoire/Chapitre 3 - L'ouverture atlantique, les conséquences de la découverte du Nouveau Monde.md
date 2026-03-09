@@ -37,4 +37,21 @@ Les populations amérindiennes sont décimées par l'arrivée des espagnols. Cel
 ### B/ La mise en place d'une société coloniale reposant sur l'esclavage
 Pour remplacer les amérindiens, les européens cherchent une nouvelle main d'oeuvre. Ils mettent alors en place le commerce triangulaire sur trois continents : Europe, Afrique et Amérique. Un esclave est considéré comme une marchandise, un objet qui appartient à un maître et n'a donc pas de droit (ex : ne peut pas s'exprimer devant un tribunal). Les européens envoient des marchandises (armes, draps, bijoux, alcool) en Afrique à échanger avec des esclaves. Les européens n'entrent pas dans le continent, ils commercent avec des seigneurs locaux. Ce sont des familles entières ou alors des villages entiers qui sont capturés pour être vendus aux européens qui les transportent en bateau pour travailler dans des plantations américaines où l'on cultive de la canne à sucre, du coton ou du tabac. Ils envoient ensuite en Europe des marchandises (tabac, coton, épices, cacao, café). Il y a eu plus de 9 millions d'esclaves transportés, principalement dans les Antilles et le Brésil. C'est donc une nouvelle société coloniale américaine qui voit le jour, qui est violente et hiérarchisée. Les esclaves travaillant dans les plantations. La vie des esclaves est soumise à la volonté du maître qui peut les sanctionner ou bien veiller sur eux
 ## III- La découverte du "Nouveau Monde" a aussi des conséquences pour les européens
-### A/ Des flux massif s de marchandises vers les ports européens
+### A/ Des flux massifs de marchandises vers les ports européens
+La colonisation du nouveau monde entraîne un afflux massif de marchandises vers l'Europe et en particulier vers le Portugal et l'Espagne. Il y a également un afflux d'or et d'argent vers les ports européens après la chute de l'empire aztèque. Cela vient du commerce triangulaire qui permet d'avoir des travailleurs sur place. Tout est inventorié par une maison de commerce à Séville qui devient une porte d'entrée pour le Nouveau Monde sous Charles Quint. Cet afflux d'or et d'argent a des conséquences sur l'économie espagnole. Cela fait monter les prix et va avoir un effet négatif sur toute la population sauf la bourgeoisie. Tous les ports atlantiques vont bénéficier de cet enrichissement. Il n'y a pas que l'or et l'argent qui affluent vers l'Europe. Il y a aussi des marchandises qui arrivent en Europe (fruits et légumes). C'est le début de la mondialisation
+### B/ Le progrès de la connaissance du monde
+Les européens améliorent leur vision du monde qui est moins limitée. La façon de représenter le monde change également avec l'arrivée de la projection de Mercator; Leurs connaissances géographiques progressent mais leur vision reste essentiellement européocentrique. En 1550, Charles Quint organise un débat à Valladolid pour savoir comment les Espagnols doivent soumettre les amérindiens. Pour débattre, il invite Bartolomé de Las Casas, un prêtre dominicain qui a vécu au Mexique et dans les Caraïbes et Juan Ginés de Sepulveda 
+cd *doc Valladolid*
+2)
+Citer :
+"Alors que (...) enragés" L9-10 / "tous ceux (...) les capturer" L16-17 / "ces mêmes (...) d'armes" L18- 19
+Reformuler :
+Les espagnols sont arrivés en attaquant les amérindiens qui étaient doux, pacifiques et dépourvus d'armes
+Analyser :
+En effet, les espagnols ont mené une politique d'extermination et d'esclavage en commettant multiples meurtres et tortures pour produire et exporter des métaux précieux, du cacao, du coton, etc
+Critiquer :
+Cependant, les amérindiens n'étaient pas pacifiques et sans armes. L'empire aztèque a mené de multiples guerres contre ses voisins pour les asservir et a fait de multiples sacrifices humains
+
+Bilan : 
+Cette controverse reste sans solution, en effet, Charles Quint ne pourra ni justifier l'utilisation de la violence, contraire à la bible ni condamner la violence. Cette controverse nous montre que la découverte de nouvelles civilisations interroge les européens
+Les grandes découvertes modifient la vision du monde des européens. Ils passent d'une vision du monde héritée de l'Antiquité, peuplée de récits imaginaires, de légendes à une vision du monde plus large comportant de multiples civilisation. Ces nouveaux mondes sont rapidement conquis et colonisés par les européens. Mais la découverte de ces nouvelles civilisations ne remet que partiellement en cause la domination des européens. Peu d'européens s'émeuvent de la disparition des amérindiens

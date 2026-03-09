@@ -29,3 +29,7 @@
 ## Préparation oral d'espagnol - projet professionnel informatique
 **Time:** 2026-02-16 18:40
 **Summary:** L'utilisateur (élève de seconde) prépare son oral d'espagnol sur son projet professionnel : devenir ingénieur informaticien. Le texte final en espagnol couvre ses compétences (Python, HTML/CSS, cybersécurité), ses qualités, son souhait de travailler à l'étranger (Canada, Japon), et son plan d'études (spécialités physique-chimie/maths/SVT puis école d'ingénieur en informatique). Plusieurs ajustements ont été faits selon ses retours (suppression de passages sur l'autodidaxie, la start-up, et remplacement USA par Canada).
+
+## Explication du processus d'adhésion au Commonwealth
+**Time:** 2026-02-19 15:38
+**Summary:** L'utilisateur demande la signification de l'expression 'apply → approved by all existing members'. L'explication donnée est que pour rejoindre le Commonwealth, un pays doit postuler et obtenir l'approbation unanime de tous les membres existants.
