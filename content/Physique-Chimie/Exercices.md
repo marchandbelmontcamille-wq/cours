@@ -101,3 +101,27 @@ $R$ : $\overrightarrow {R}$
 ### 3)
 Les forces sont son poids $\overrightarrow {P}$ , la tension $\overrightarrow {T}$ du fil et la force magnétique. D'après le principe d'inertie, si la bille est à l'équilibre, les forces exercées sur la bille se compensent.
 Or, $\overrightarrow {T}+\overrightarrow {F_{\text {magnétique}}}=\overrightarrow {P}$ 
+## CHAP9
+#### 1)
+1)
+a)
+$n_c=\frac {m_c} {M_c}$
+A.N : $n_c= \frac {5,82} {12,0}=0,485\text { mol}$
+b)
+$N_c=n_c\times N_A$
+A.N : $N_c=2,92\times 10^{23}$
+2)
+a)
+b)
+c)
+$N_{eth}=n_{eth}\times N_a$
+$N_{eth}=4,66\times 10^{22}$ molécules d'éthanol
+d)
+$V_{eh}=4,5\text { mL}$
+### 2)
+1)
+$M_{al}=(18\times 12)+(32\times 1)+(2\times 16)=280\text { g}\times\text {mol}$ 
+2)
+$n_{al}=0,457\text { mol}$
+### 3)
+$N_{al}=2,75\times b^{25}$ molécules d'acide linéoléique

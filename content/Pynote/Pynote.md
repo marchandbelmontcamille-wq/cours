@@ -41,17 +41,23 @@ ou redistribution nécessite l'autorisation écrite de l'auteur.
 
 ## Changelogs
 ##### V1.0.0
-Version initiale
+>[!WARNING] Version obsolète
+- Version initiale
 ##### V1.1.0
-Ajout de la page des paramètres
+>[!WARNING] Version obsolète
+- Ajout de la page des paramètres
 ##### V1.1.1
+>[!SUCCESS] Version à jour
 - Réglage d'un bug d'affichage sur la partie EDT du dashboard
-- Patch pour la compatibilité avec les proxies scolaires (solution temporaire avec pip-system-certs)
-- Ajout de la license
-##### V1.1.2 (En préparation)
+- Patch de la compatibilité avec les proxies scolaires (solution temporaire avec pip-system-certs)
+- Ajout de la licence
+##### V1.1.2 (en développement)
 - Correction de l'affichage de la moyenne de la période actuelle sur la partie Notes du dashboard
 - Mise en place de la compatibilité avec les proxies scolaires (solution durable avec trustcore)
-## 🙏 Crédits
+- Refonte de l'affichage de l'emploi du temps sur la page EDT
+- Ajout d'un système de simulation des notes futures dans la page Notes
+- Refonte des couleurs du thème clair
+- ## 🙏 Crédits
 - Camille Marchand Belmont - Conception, direction et développement
 - [Claude](https://claude.ai) (Anthropic) - Assistance au développement
 - [pronotepy](https://github.com/bain3/pronotepy) - API Python non-officielle pour Pronote

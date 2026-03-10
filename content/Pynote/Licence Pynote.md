@@ -71,8 +71,7 @@ strictement interdit de :
 
 ## 5. Contributions
 
-Toute contribution soumise à l'Auteur *(pull request, patch,
-suggestion de code)* devient la propriété de l'Auteur, qui
+Toute contribution de code soumise à l'Auteur devient la propriété de l'Auteur, qui
 pourra l'intégrer au Logiciel à sa discrétion. Le contributeur
 sera crédité dans la section « Crédits » s'il le souhaite.
 
@@ -107,10 +106,7 @@ en sa possession.
 ## 9. Modifications de la licence
 
 L'Auteur se réserve le droit de modifier les termes de cette
-licence à tout moment. La version en vigueur est celle publiée
-à l'adresse :
-
-> **https://tonsite.fr/licenses/pynote**
+licence à tout moment.
 
 L'utilisation continue du Logiciel après modification vaut
 acceptation des nouveaux termes.

@@ -92,3 +92,4 @@ tags:
 |el juego|le jeu|
 |los esfuerzos|les efforts|
 |las mentalidades|les mentalités|
+carton
