@@ -8,7 +8,7 @@
 >
 >>[!EXAMPLE] Exemples :
 >>$|5,2|=5,2$
->>$|-6,42|=6,42
+>>$|-6,42|=6,42$
 >
 >>[!FAQ] Propriété :
 >>Pour tout nombre réel $a$,
@@ -24,6 +24,8 @@
 >
 >>[!FAQ] Propriété :
 >>Si $a\ge b$, alors $AB=a-b$
->>Si $a\le b$, alors $AB=a+b$
+>>Si $a\le b$, alors $AB=b-a$
 >>Donc pour tous réels $a$ et $b$, $AB=|a-b|$
 >>Autrement dit, la distance entre $a$ et $b$ est égale à $|a-b|$
+
+

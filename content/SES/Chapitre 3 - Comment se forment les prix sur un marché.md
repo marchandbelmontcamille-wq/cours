@@ -37,3 +37,16 @@ Il y a d'autres exemples, comme les fleurs durant la Saint Valentin, les masques
 Grèves des producteurs / fournisseurs
 La courbe d'offre se déplace vers la gauche car pour chaque prix donné, il y a moins de quantités offertes ce qui fait augmenter le prix d'équilibre
 Il y a d'autres exemples comme la guerre en Ukraine ce qui a fait monter les prix du gaz
+### 2) Quels sont les effets de la mise en place d'une taxe sur l'équilibre du marché
+cf *doc 1p80*
+1) Elle représente une taxe sur un plein d'essence
+2) diesel : 58,6% SP95 : 61,4%
+3) Ils sont taxés parce que ces produits sont nuisibles à l'environnement, tout comme les cigarettes. L'Etat lutte contre la pollution et incite les individus a moins utiliser leur voiture et a utiliser des véhicules électriques
+4) Comme les prix sont plus chers, la demande va baisser
+5) La demande baissera encore plus.
+cf *doc ciment* 
+1)
+Le prix s'élève à 60 €/t pour une quantité échangée de 12 tonnes
+2)
+3)
+

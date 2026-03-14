@@ -73,4 +73,6 @@ MAIS ATTENTION ! L’ennemie est toujours à l’offensive. Fin 2023, le mur du
 
 Les centres de production tournent actuellement à capacité maximale pour repousser cette attaque. En parallèle, une contre-offensive est en cours depuis 2022 en Uruguay, avec des pupes panaméens.
 
+Donc pour résumer, depuis les années 50, l'humanité produit des centaines de millions de mouches mutantes stérilisées par irradiation chaque semaine, pour les larguer par avion au-dessus du Panama, et tout ça pour empêcher une mouche bleue de venir pondre dans nos plaies. Dit comme ça, ça ressemble à un scénario de film de science-fiction un peu nul, et pourtant c'est bien réel. Et c'est même l'une des plus grandes réussites de lutte biologique de l'histoire. Alors la prochaine fois qu'une mouche vous agace, dites-vous que quelque part au Panama, 90 millions de ses cousines stériles sont en train de se sacrifier pour vous. C'était [ton prénom], merci de m'avoir écouté.   
+
 2392 mots - 14649 caractères

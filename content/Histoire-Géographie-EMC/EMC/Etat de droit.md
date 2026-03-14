@@ -22,3 +22,13 @@ Ils vérifient la conformité des lois par rapport à la Constitution
 Chaque citoyen engagé dans une action en justice, s'il estime qu'une loi qui va lui être appliquée est contraire à la Constitution, peut saisir le Conseil Constitutionnel. La QPC demande au CC de redéfinir le cadre de la détention provisoire
 5) 
 Cette affaire montre que l'Etat lui même peut être condamné. L'Etat n'est donc pas au dessus des lois
+
+## Comment la France est elle devenue un Etat de droit
+### 1)
+En France, l'état de droit naît en 1789 avec la rédaction de la DDHC. De nouvelles lois apparaissent au fil des années et renforcent l'état de droit ( $XIX^{e}$ siècle : lois sur les libertés individuelles et collectives / $XX^{e}$ siècle : droits sociaux / $XXI^{e}$ siècle : droits liés aux genres et aux modes de vie)
+-> Etat de droit n'est pas figé mais sans cesse en construction
+### 2)
+Etat de droit met en place hiérarchie des normes, de sortes que normes juridiques s'en trouvent limitées. bloc réglementaire < bloc législatif < bloc de constitutionnalité
+Cela permet de garantir le fonctionnement de l'Etat de droit en maintenant une cohérence dans les normes
+### 3)
+Le bloc réglementaire correspond au pouvoir exécutif (ministres/préfets/maires) et le bloc législatif au parlement
