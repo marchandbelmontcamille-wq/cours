@@ -49,3 +49,7 @@
 ## Australie : Stolen Generations et Commonwealth
 **Time:** 2026-03-13 15:32
 **Summary:** L'utilisateur pose des questions sur l'histoire des Stolen Generations en Australie (enlèvement forcé d'enfants aborigènes entre 1910-1970, traumatismes persistants, excuses de Kevin Rudd en 2008) et sur les désavantages de l'appartenance de l'Australie au Commonwealth (lien colonial, question de la souveraineté, frein à la république). Ces questions semblent liées à un cours d'anglais.
+
+## Calcul de valeurs absolues avec π et √6
+**Time:** 2026-03-14 17:45
+**Summary:** L'utilisateur demande comment déterminer |π - 1| et |√6 - 4|. Pour |π - 1|, comme π - 1 > 0, le résultat est simplement π - 1. Pour |√6 - 4|, comme √6 - 4 < 0, on prend l'opposé et le résultat est 4 - √6. La méthode consiste à analyser le signe de l'expression à l'intérieur de la valeur absolue.

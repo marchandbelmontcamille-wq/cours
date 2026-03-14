@@ -47,16 +47,24 @@ ou redistribution nécessite l'autorisation écrite de l'auteur.
 >[!WARNING] Version obsolète
 - Ajout de la page des paramètres
 ##### V1.1.1
->[!SUCCESS] Version à jour
+>[!WARNING] Version obsolète
 - Réglage d'un bug d'affichage sur la partie EDT du dashboard
 - Patch de la compatibilité avec les proxies scolaires (solution temporaire avec pip-system-certs)
 - Ajout de la licence
-##### V1.1.2 (en développement)
-- Correction de l'affichage de la moyenne de la période actuelle sur la partie Notes du dashboard
-- Mise en place de la compatibilité avec les proxies scolaires (solution durable avec trustcore)
-- Refonte de l'affichage de l'emploi du temps sur la page EDT
-- Ajout d'un système de simulation des notes futures dans la page Notes
-- Refonte des couleurs du thème clair
+##### V2.0.0
+>[!SUCCESS] Version à jour
+**Nouveaux écrans** : Cantine, Compétences, Informations & Communications (avec recherche + tri + détail complet + téléchargement PJ), Simulateur de notes dédié
+
+**Notes** : graphique en barres des moyennes, min/max/classe, sparklines dashboard
+
+**Export** : CSV, JSON, HTML bulletin (dans paramètres)
+
+**EDT** : compteur d'heures, vue tableau/liste configurable
+
+**Notifications** : détection nouvelles notes et devoirs
+
+**Dashboard** : 6 cartes (EDT, Notes, Devoirs, Cantine, Compétences, Infos)
+
 - ## 🙏 Crédits
 - Camille Marchand Belmont - Conception, direction et développement
 - [Claude](https://claude.ai) (Anthropic) - Assistance au développement
