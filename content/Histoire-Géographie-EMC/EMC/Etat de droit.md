@@ -32,3 +32,5 @@ Etat de droit met en place hiérarchie des normes, de sortes que normes juridiqu
 Cela permet de garantir le fonctionnement de l'Etat de droit en maintenant une cohérence dans les normes
 ### 3)
 Le bloc réglementaire correspond au pouvoir exécutif (ministres/préfets/maires) et le bloc législatif au parlement
+## 5)
+La Pologne a déclaré : "Oui mais cette compétence relève des états membres" et la Commission a répondu que le droit européen prime sur le droit national Il pourrait y avoir des sanctions financières tant que la Pologne ne respecte pas le droit européen

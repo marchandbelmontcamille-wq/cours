@@ -1,14 +1,11 @@
-# Chapitre 2 - Quelle relation entre diplôme, emploi et salaire ?
-
----
-
+# Chapitre 2
 ## 1) Le manque de qualification est une cause de chômage
 
 **Qualification de l'individu** : ensemble des connaissances et compétences qui rendent un individu productif
 
 **Qualification de l'emploi** : compétences et connaissances attendues pour occuper un poste
 
-- Le diplôme protège du chômage : seulement 10% de chômage chez les diplômés contre 50% chez les non-diplômés
+- Le diplôme protège du chômage : seulement 10% de chômage chez les diplômés contre 50% chez les non diplômés
 - Plus on est diplômé, plus on est employable
 - Avec le temps, l'expérience acquise finit par primer sur le diplôme, donc les écarts se réduisent
 
@@ -41,13 +38,8 @@
 **Autres constats :**
 - Les cadres et PIS gagnent 2 à 3 fois plus que les employés
 - Le salaire varie fortement selon le secteur d'activité
+# Chapitre 3
 
----
----
-
-# Chapitre 3 - Comment se forment les prix sur un marché ?
-
----
 
 ## 1) Comment la demande évolue par rapport au prix
 

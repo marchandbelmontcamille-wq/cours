@@ -1,4 +1,4 @@
-Bonjour, aujourd'hui, je vous emmène sur Minecraft, sur les traces d'une des plus grandes failles de son histoire, installez vous confortablement, prenez du popcorn et on y va !
+ Bonjour, aujourd'hui, je vous emmène sur Minecraft, sur les traces d'une des plus grandes failles de son histoire, installez vous confortablement, prenez du popcorn et on y va !
 
 Comment pouvez vous prendre l'avantage sur votre adversaire quand vous avez tous les deux le droit de tout faire ?
 
@@ -62,7 +62,7 @@ Mais PaperMC - qui est un plugin utilisé par presque tous les gros serveurs Min
 L'EXPLOITATION
 --------------
 
-Parce qu'un an après ce patch, quand Babbaj le découvre, il découvre aussi qu'en modifiant la position du bloc réellement cassée dans une requête de minage avant de l'envoyer au serveur, celui-ci, voyant que vous n'avez du coup évidemment pas le droit de casser ce bloc vu qu'il est trop loin, va vouloir vous renvoyer son nom ainsi que sa position.
+Parce qu'un an après ce patch, quand Babbaj le découvre, il découvre aussi qu'en modifiant la position du bloc réellement cassée dans une requête de minage avant de l'envoyer au serveur, celui-ci, voyant que vous n'avez du coup évidemment pas le droit de casser c e bloc vu qu'il est trop loin, va vouloir vous renvoyer son nom ainsi que sa position.
 
 Mais si on modifie la requête pour tenter de casser un bloc tellement éloigné qu'il est dans une zone même pas chargée par le jeu, le serveur n'a pas accès à ses infos. Donc ce qu'il va faire, c'est forcer le chargement entier de la zone juste pour les avoir. C'est lunaire. C'est vraiment lunaire. On va demander à un serveur de charger genre 65 536 blocs juste pour récupérer la position et le nom d'un seul d'entre eux.
 

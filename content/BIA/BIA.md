@@ -4,7 +4,7 @@ draft: false
 tags:
   -
 ---
-Poussée d'Archimède : $\overrightarrow {Poussée}=m_{\text {volume fluide déplacé}}$
+  Poussée d'Archimède : $\overrightarrow {Poussée}=m_{\text {volume fluide déplacé}}$
 air : $1kg=1m^3$ 
 gaz légers : Hydrogène et Hélium
 Forces : Portance vers le haut / Traction vers l'avant / Poids vers le bas / Trainée vers l'arrière
@@ -63,7 +63,7 @@ assiette = incidence
 
 En montée :
 La pente est positive
-assiette > pente > 0
+	assiette > pente > 0d
 
 En descente :
 La pente est négative
@@ -107,4 +107,11 @@ Monocorps
 Entrée d'air -> Compresseur -> Chambre de combustion -> Turbine -> Tuyère
 Double corps, on ajoute un second flux d'air
 Permet de diminuer la consommation et augmente de façon la poussée à peu de frais
+
+
+
+dégradation météo : faire demi tour
+fréquence détresse : 121.5 
+
+OACI -> EASA -> DGAC -> Fédérations délégataires
 

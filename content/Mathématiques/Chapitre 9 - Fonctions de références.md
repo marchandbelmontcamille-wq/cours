@@ -71,7 +71,75 @@
 >>$\frac {1} {-2}<\frac {1} {2}$
 
 >[!FAQ] Propriété :
->Soit $k$ un réel. L'équation $\frac {1} {x}=k a pour ensemble de solutions :
+>Soit $k$ un réel. L'équation $\frac {1} {x}=k$ a pour ensemble de solutions :
 >- $S=\emptyset$ si $k=0$
 >- $S=(\frac {1} {k})$ si $k\ne 0$
+## III- Fonction racine carrée
+### 1) Définition
+>[!FAQ] Définition :
+>La fonction racine carrée est la fonction $f$ définie sur $[0;\infty]$ par $f(x)=\sqrt {x}$
+### 2) Courbe représentative et variations
+Tableau de variations :
+
+| x    | 0   | 0,25 | 1   | 4   | 9   |
+| ---- | --- | ---- | --- | --- | --- |
+| f(x) | 0   | 0,5  | 1   | 2   | 3   |
+
+>[!FAQ] Propriété :
+>La fonction racine carrée est strictement croissante sur $[0;+\infty[$
+
+### 3) Equation et Inéquations
+>[!FAQ] Propriété :
+>Soit $k$ un réel
+>L'équation $\sqrt {x}=k$ admet comme ensemble de solutions :
+>- $S=\emptyset$ si $k<0$
+>- $S=\{k^2\}$ si $k\ge 0$
+
+>[!EXAMPLE] Exemples :
+>1) $\sqrt {x}=4$ : $S=\{16\}$
+>2) $\sqrt {x}=-3$ : $S=\emptyset$
+>3) $\sqrt {x}\le 3$ : $S=\{0;9\}$
+>4) $\sqrt {x}>5$ : $S=]25;+\infty[$
+
+## IV- Fonction cube
+### 1) Définition
+>[!FAQ] Définition :
+>La fonction cube est la fonction $f$ définie sur $R$ par $f(x)=x^3$
+
+>[!FAQ] Propriété :
+>La fonction cube est impaire
+
+>[!TIP] Démonstration :
+>Pour tout réel $x$, $f(-x)=(-x)^3=-x^3=-f(x)$
+
+>[!FAQ] Tableau de valeurs :
+
+| x    | -2  | -1  | 0   | 1   | 2   |
+| ---- | --- | --- | --- | --- | --- |
+| f(x) | -8  | -1  | 0   | 1   | 8   |
+>[!FAQ] Propriété :
+>La fonction cube est strictement croissante sur $R$
+```functionplot
+---
+title: Fonction cube
+xLabel: 
+yLabel: 
+bounds: [-3,3,-9,9]
+disableZoom: false
+grid: true
+---
+f(x)=x^3
+```
+### 3) Equations et inéquations
+>[!FAQ] Propriété :
+>Soit $k$ un réel
+>L'équation $x^3=k$ admet une unique solution, appelée racine cubique de $k$
+>On la note $k^{\frac {1} {3}}$ ou $\sqrt [3] {k}$
+>L'inéquation $x^3<k$ a pour solutions $]-\infty;\sqrt [3] {k}$
+
+>[!EXAMPLE] Exemples :
+>1) $x^3=2$ : $S=\{\sqrt [3] {2}\}$
+>2) $x^3=27$ : $S=\{3\}$
+>3) $x^3<10$ : $S=]-\infty;\sqrt [3] {10}[$
+>4) $x^3\ge 8$ : $=[2;+\infty[$
 

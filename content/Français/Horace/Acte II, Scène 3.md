@@ -1,0 +1,1 @@
+H se réunit avec Cu dans une gémellité héroïque et sublime en évoquant "notre valeur", "notre constance". Les répliques s'enchaînent la reprise des mots, sous forme de chiasme dans la bouche de Curiace. Cela montre la tension du dialogue. Curiace se justifie, "ce n'est pas par lâcheté ou faiblesse qu'il déplore le sort, mais par humanité

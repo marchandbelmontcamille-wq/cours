@@ -18,12 +18,5 @@ cf *AE1*
 cd doc *5.2*
 cd doc *5.3*
 doc *5.4*
-```plotly
-data:
-- x: [0,1.26,2.17,3.37,4.02,5.01,6.05]
-  y: [0,7.6,13.1,20.3,24.2,30.3,36.6]
-```
-
-*Caractéristique tension intensité d'un conducteur ohmique*
 doc *5.5*
 doc *5.6*

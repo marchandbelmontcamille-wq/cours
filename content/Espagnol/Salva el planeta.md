@@ -10,13 +10,13 @@ energias saludables - sustentables - sostenibles : energies renouvelables
 proteger
 economia local : économie locale
 
-
-
-
-
-
 la naturaleza
 un malino, un aerogenerador
 sostenible
 ecologico
 el entorne - el medio ambiente
+
+# Sevilla, capitale verde
+a) Es la ciudad de Sevilla / en el fondo se ve al principal monumento de la ciduad :  la Giralda / En el segundo plano hay una zona con mucha vegetacion / a la derecha se ve una azotea con paneles solares / La gente tiene luchas plantas en la azotea
+b) Mostrar que Sevilla es una ciudad agradable / Puede pretender al titulo de Capital Verde Europea
+c) Domina el color verde que da una impresion agradable / Los personajes que estan en azotea parecen muy felices, se lo pasan bien

@@ -41,7 +41,7 @@ Il y a d'autres exemples comme la guerre en Ukraine ce qui a fait monter les pri
 cf *doc 1p80*
 1) Elle représente une taxe sur un plein d'essence
 2) diesel : 58,6% SP95 : 61,4%
-3) Ils sont taxés parce que ces produits sont nuisibles à l'environnement, tout comme les cigarettes. L'Etat lutte contre la pollution et incite les individus a moins utiliser leur voiture et a utiliser des véhicules électriques
+3) Ils sont taxés parce que ces produits sont nuisibles à l'environnemen, tout comme les cigarettes. L'Etat lutte contre la pollution et incite les individus a moins utiliser leur voiture et a utiliser des véhicules électriques
 4) Comme les prix sont plus chers, la demande va baisser
 5) La demande baissera encore plus.
 cf *doc ciment* 

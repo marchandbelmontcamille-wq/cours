@@ -1,0 +1,1 @@
+J'observe qu'en 1848, la forme claire est ultra majoritaire et la forme sombre est observée pour la première fois, en 1854, la forme sombre est ultra majoritaire et la forme claire ultra minoritaire et en 1970, la forme claire est majoritaire et la forme claire minoritaire                         

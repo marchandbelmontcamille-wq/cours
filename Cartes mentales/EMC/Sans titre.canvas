@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"id":"d70cda45dcc001b8","x":-370,"y":340,"width":250,"height":60,"type":"text","text":"Assemblée nationale"},
+		{"id":"dbef46c6be18d8ca","type":"text","text":"Sénat","x":130,"y":340,"width":250,"height":60},
+		{"id":"44869527df7cb60e","x":-120,"y":56,"width":250,"height":60,"type":"text","text":"Dépot de la proposition / projet"},
+		{"id":"d8af987c16dabfd4","x":-245,"y":-140,"width":250,"height":60,"type":"text","text":"Matignon"},
+		{"id":"72de4159f2273d4a","x":5,"y":-140,"width":250,"height":60,"type":"text","text":"Parlement"},
+		{"id":"12b38b920cfa1b3b","x":-370,"y":220,"width":250,"height":60,"type":"text","text":"Commission AN"},
+		{"id":"dc5976641f430011","x":130,"y":220,"width":250,"height":60,"type":"text","text":"Commission Sénat"},
+		{"id":"766a847a21eac4b4","type":"text","text":"Président de la république","x":-125,"y":960,"width":250,"height":60},
+		{"id":"3d851a398b47d3c6","x":-125,"y":1080,"width":250,"height":60,"type":"text","text":"Promulgation de la loi"},
+		{"id":"6a9ff3c71f4d08b2","x":-120,"y":520,"width":250,"height":60,"type":"text","text":"CMP"},
+		{"id":"863cf2dbedcdf627","x":-91,"y":340,"width":192,"height":60,"type":"text","text":"Navette parlementaire"},
+		{"id":"68d9da07bd94d62e","x":-620,"y":520,"width":250,"height":60,"type":"text","text":"Saisine du Conseil Constitutionnel"},
+		{"id":"c0a269543841a0a2","x":380,"y":520,"width":250,"height":60,"type":"text","text":"Demande nouvel examen du texte"},
+		{"id":"308bdd6641d1b023","x":-125,"y":1200,"width":250,"height":60,"type":"text","text":"Publication au JO"}
+	],
+	"edges":[
+		{"id":"1588fc3c5857dc63","fromNode":"d70cda45dcc001b8","fromSide":"bottom","toNode":"766a847a21eac4b4","toSide":"top","label":"Si accord"},
+		{"id":"dc9d0846edc12644","fromNode":"dbef46c6be18d8ca","fromSide":"bottom","toNode":"766a847a21eac4b4","toSide":"top","label":"Si accord"},
+		{"id":"6bd4cfb18e86f08a","fromNode":"d8af987c16dabfd4","fromSide":"bottom","toNode":"44869527df7cb60e","toSide":"top","label":"Projet de loi"},
+		{"id":"5c129a1ec796fbd7","fromNode":"72de4159f2273d4a","fromSide":"bottom","toNode":"44869527df7cb60e","toSide":"top","label":"Proposition\nde loi"},
+		{"id":"a7e89a49101bcd6e","fromNode":"44869527df7cb60e","fromSide":"bottom","toNode":"dc5976641f430011","toSide":"top"},
+		{"id":"bcdae800e06a20d1","fromNode":"44869527df7cb60e","fromSide":"bottom","toNode":"12b38b920cfa1b3b","toSide":"top"},
+		{"id":"efe32907342b889e","fromNode":"12b38b920cfa1b3b","fromSide":"bottom","toNode":"d70cda45dcc001b8","toSide":"top"},
+		{"id":"8565986e29bf741a","fromNode":"dc5976641f430011","fromSide":"bottom","toNode":"dbef46c6be18d8ca","toSide":"top"},
+		{"id":"2d48cecd05795d9e","fromNode":"766a847a21eac4b4","fromSide":"bottom","toNode":"3d851a398b47d3c6","toSide":"top"},
+		{"id":"2a8ceda74141b4c3","fromNode":"d70cda45dcc001b8","fromSide":"bottom","toNode":"6a9ff3c71f4d08b2","toSide":"top","label":"Si désaccord"},
+		{"id":"14bb83027bd7fb56","fromNode":"dbef46c6be18d8ca","fromSide":"bottom","toNode":"6a9ff3c71f4d08b2","toSide":"top","label":"Si désaccord"},
+		{"id":"36df76daa3b04170","fromNode":"6a9ff3c71f4d08b2","fromSide":"right","toNode":"dbef46c6be18d8ca","toSide":"right"},
+		{"id":"d371d380b7848777","fromNode":"6a9ff3c71f4d08b2","fromSide":"left","toNode":"d70cda45dcc001b8","toSide":"left"},
+		{"id":"11d07fb36a4794dd","fromNode":"766a847a21eac4b4","fromSide":"right","toNode":"c0a269543841a0a2","toSide":"bottom"},
+		{"id":"9c48b5ed3268055e","fromNode":"766a847a21eac4b4","fromSide":"left","toNode":"68d9da07bd94d62e","toSide":"bottom"},
+		{"id":"2f4460280a03a971","fromNode":"68d9da07bd94d62e","fromSide":"bottom","toNode":"766a847a21eac4b4","toSide":"top"},
+		{"id":"80c69438bc241574","fromNode":"863cf2dbedcdf627","fromSide":"left","toNode":"d70cda45dcc001b8","toSide":"right"},
+		{"id":"0453a784427012ab","fromNode":"863cf2dbedcdf627","fromSide":"right","toNode":"dbef46c6be18d8ca","toSide":"left"},
+		{"id":"29e15b6a58682967","fromNode":"68d9da07bd94d62e","fromSide":"right","toNode":"863cf2dbedcdf627","toSide":"bottom"},
+		{"id":"54f09301b439a28b","fromNode":"c0a269543841a0a2","fromSide":"left","toNode":"863cf2dbedcdf627","toSide":"bottom"},
+		{"id":"02ebb83c60b5a297","fromNode":"3d851a398b47d3c6","fromSide":"bottom","toNode":"308bdd6641d1b023","toSide":"top"}
+	]
+}

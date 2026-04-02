@@ -5,15 +5,11 @@ La **mole** est une unité de mesure qui permet de **compter des entités chimiq
 > **Symbole de la quantité de matière :** $n$, exprimée en **mol**
 
 ---
+## 2. La constante d'Avogadro
 
-## 2. Le nombre d'Avogadro
+La **constante d'Avogadro** $N_A$ représente le **nombre d'entités** (atomes, molécules, ions…) contenues dans **une mole**.
 
-Une mole contient exactement :
-
-$$N_A = 6{,}022 \times 10^{23} \text{ entités/mol}$$
-
-C'est le **nombre d'Avogadro**. En gros, 1 mol = $6{,}022 \times 10^{23}$ particules.
-
+$$N_A = 6{,}022 \times 10^{23} \text{ mol}^{-1}$$
 ### Formule pour compter les entités :
 
 $$N = n \times N_A$$
@@ -69,8 +65,15 @@ $$\boxed{N = n \times N_A}$$
 
 $$\boxed{n = \frac{m}{M}}$$
 
----
+| Grandeur | Symbole | Unité |
+| --- | --- | --- |
+| Quantité de matière | $n$ | mol |
+| Masse de l'échantillon | $m$ | g |
+| Masse molaire | $M$ | g·mol⁻¹ |
+| Nombre d'entités | $N$ | sans unité |
+| Constante d'Avogadro | $N_A$ | mol⁻¹ |
 
+---
 ## 6. Méthode type pour un exercice
 
 1. **Repérer** les données et ce qu'on cherche
@@ -81,3 +84,40 @@ $$\boxed{n = \frac{m}{M}}$$
 ---
 
 > 💡 **Astuce :** Pense toujours à vérifier tes unités avant de faire le calcul ! Si $m$ est en kg, il faut convertir en g.
+
+## 7. Les coefficients stœchiométriques
+
+Une équation de réaction doit être **équilibrée** : même nombre de chaque atome à gauche et à droite.
+
+$$\text{Réactifs} \rightarrow \text{Produits}$$
+
+Les coefficients stœchiométriques = les **nombres devant** les espèces chimiques.
+
+> **Exemple :** $\quad 2\,H_2 + O_2 \rightarrow 2\,H_2O$
+> Coefficients : **2**, **1** (pas écrit), **2**
+
+---
+
+### Règles :
+
+- **Conservation des atomes** → autant d'atomes de chaque élément des deux côtés
+- On modifie **uniquement les coefficients** devant les espèces
+- On ne touche **jamais** aux formules chimiques
+- Coefficient de **1** → on ne l'écrit pas
+
+---
+
+### Méthode pour équilibrer :
+
+1. Écrire les formules des réactifs et produits
+2. Compter les atomes de chaque côté
+3. Ajuster les coefficients
+4. Vérifier
+
+---
+
+### Exemple :
+
+$$CH_4 + O_2 \rightarrow CO_2 + H_2O$$
+
+$$\boxed{CH_4 + 2\,O_2 \rightarrow CO_2 + 2\,H_2O}$$
