@@ -123,3 +123,35 @@ $-\sqrt [3] {2}$
 $]3;+\infty[$
 4°
 $]-\infty;-2[$
+## CHAP12
+### 25)
+1)
+a)
+{2;4;8;10;12;14}
+b)
+6
+2)
+{6;12}
+2
+## 44)
+a) Il ne porte pas de chaussures noires
+b) Il porte des chaussures noires ou n'utilise pas de parapluie
+## 69)
+1)
+$\{1;2;3;4\}$
+2)
+a)
+$\{1;3\}$
+b)
+$\{\emptyset\}$ 
+c)
+$\{1;2;3\}$
+### 72)
+a)
+La carte tirée est un coeur et est une figure
+b)
+La carte tirée est un coeur ou est une figure
+c)
+La carte tirée n'est un coeur et est une figure
+d)
+La carte tirée n'est un coeur ou n'est une figure

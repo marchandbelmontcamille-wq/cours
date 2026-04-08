@@ -4,7 +4,7 @@ draft: false
 tags:
   -
 ---
-## I- Modèle de l'atome
+ ## I- Modèle de l'atome
 ### 1) Structure de l'atome
 
 Un atome est composé d'un noyau lui-même composé de nucléons (protons+nucléons) et d'électrons autour du noyau.

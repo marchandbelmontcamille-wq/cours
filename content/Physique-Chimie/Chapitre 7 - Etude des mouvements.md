@@ -1,4 +1,4 @@
-   cf doc *AE1*
+n   cf doc *AE1*
 cf doc *AE2*
 1) On se place dans le référentiel terrestre
 2) La trajectoire est une ligne droite

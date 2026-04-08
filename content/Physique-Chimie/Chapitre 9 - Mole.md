@@ -1,4 +1,4 @@
-## 1. C'est quoi une mole ?
+ ## 1. C'est quoi une mole ?
 
 La **mole** est une unité de mesure qui permet de **compter des entités chimiques** (atomes, molécules, ions…) en très grande quantité. C'est comme une "boîte" qui contient toujours le même nombre de particules.
 

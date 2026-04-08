@@ -20,7 +20,8 @@
 - Dans une espèce : **mêmes gènes**, mais **pas forcément les mêmes allèles**
 - Dans une **paire de chromosomes** : mêmes gènes sur les 2, mais les **allèles peuvent être différents**
 - **Mutation** = changement d'un ou plusieurs nucléotides → crée un **nouvel allèle** → peut donner un **nouveau caractère**, parfois **transmis à la descendance**
-
+- C >> G
+- A )) T
 ---
 
 ## 🌿 Sélection naturelle et spéciation

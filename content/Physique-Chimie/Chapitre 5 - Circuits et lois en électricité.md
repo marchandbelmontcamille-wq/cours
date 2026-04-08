@@ -4,7 +4,7 @@ draft: false
 tags:
   -
 ---
-cf doc *5.1*
+  cf doc *5.1*
 cf *AE1*
 >[!FAQ] Loi des mailles
 >Dans une maille orientée, la somme des tensions fléchées dans le sens de parcours de la maille est égale à la somme des tensions fléchées dans l'autre sens
