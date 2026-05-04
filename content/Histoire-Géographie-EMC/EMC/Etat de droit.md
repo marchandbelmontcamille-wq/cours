@@ -34,3 +34,11 @@ Cela permet de garantir le fonctionnement de l'Etat de droit en maintenant une c
 Le bloc réglementaire correspond au pouvoir exécutif (ministres/préfets/maires) et le bloc législatif au parlement
 ## 5)
 La Pologne a déclaré : "Oui mais cette compétence relève des états membres" et la Commission a répondu que le droit européen prime sur le droit national Il pourrait y avoir des sanctions financières tant que la Pologne ne respecte pas le droit européen
+
+## Comment l'Etat de droit peut il créer de nouveaux droits et de nouvelles libertés ?
+### 1)
+Dans les années 70, ce sont les droits des femmes qui font leur apparition.
+Dans les années 1990-2010, c'est le mariage pour tous qui apparaît
+Nouveaux droits possible comme la GPA ou le changement de sexe pour les mineurs 
+### 2)
+Elle a joué un rôle dans les droits des femmes

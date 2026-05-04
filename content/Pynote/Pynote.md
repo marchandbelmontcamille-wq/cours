@@ -53,7 +53,6 @@ ou redistribution nécessite l'autorisation écrite de l'auteur.
 - Ajout de la licence
 ##### V2.0.0
 >[!SUCCESS] Version à jour
-**Nouveaux écrans** : Cantine, Compétences, Informations & Communications (avec recherche + tri + détail complet + téléchargement PJ), Simulateur de notes dédié
 
 **Notes** : graphique en barres des moyennes, min/max/classe, sparklines dashboard
 

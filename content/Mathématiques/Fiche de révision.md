@@ -1,114 +1,87 @@
-## I — Fonction affine
+ ## I - Fonction carré : $f(x) = x^2$
 
-### Définition
-Une fonction affine c'est une fonction de la forme :
-$$f(x) = mx + p$$
-- **$m$** = coefficient directeur (la pente de la droite)
-- **$p$** = ordonnée à l'origine (là où la droite coupe l'axe des ordonnées)
+- **Ensemble de définition :** $\mathbb{R}$
+- **Parité :** Paire → $f(-x) = (-x)^2 = x^2 = f(x)$
+- **Signe :** Toujours positive → $x^2 \geq 0$
+- **Courbe :** Parabole de sommet l'origine, symétrique par rapport à l'axe des ordonnées
+- **Variations :**
+    - Strictement décroissante sur $]-\infty ; 0]$
+    - Strictement croissante sur $[0 ; +\infty[$
 
-### Cas particuliers
-- $m = 0$ → **fonction constante** ($f(x) = p$, droite horizontale)
-- $p = 0$ → **fonction linéaire** ($f(x) = mx$, passe par l'origine)
+**Équations/Inéquations avec $x^2 = k$ :**
 
-### Trouver $m$ à partir de deux points
-$$m = \frac{f(b) - f(a)}{b - a}$$
-
-### Sens de variation
-- $m > 0$ → $f$ **croissante** 📈
-- $m < 0$ → $f$ **décroissante** 📉
-- $m = 0$ → $f$ **constante**
-
----
-
-## II — Tableau de signes d'une fonction affine
-
-### Méthode en 3 étapes :
-1. **Trouver la racine** : résoudre $f(x) = 0$
-2. **Regarder le signe de $m$** pour savoir le sens de variation
-3. **Construire le tableau** :
-   - Si $m > 0$ : **négatif puis positif**
-   - Si $m < 0$ : **positif puis négatif**
+| Condition | Solutions |
+| --------- | --------- |
+| $k < 0$ | $S = \emptyset$ |
+| $k = 0$ | $S = \{0\}$ |
+| $k > 0$ | $S = \{-\sqrt{k} ; \sqrt{k}\}$ |
+| $x^2 < k$ (avec $k > 0$) | $S = ]-\sqrt{k} ; \sqrt{k}[$ |
+| $x^2 \geq k$ (avec $k > 0$) | $S = ]-\infty ; -\sqrt{k}] \cup [\sqrt{k} ; +\infty[$ |
 
 ---
 
-## III — Tableaux de signes produit et quotient
+## II - Fonction inverse : $f(x) = \dfrac{1}{x}$
 
-### Méthode :
-1. Faire le tableau de signes de **chaque** fonction affine séparément
-2. Les regrouper dans **un seul tableau**
-3. Appliquer la règle des signes ligne par ligne
+- **Ensemble de définition :** $]-\infty ; 0[ \cup ]0 ; +\infty[$ (tout sauf 0)
+- **Parité :** Impaire → $f(-x) = \dfrac{1}{-x} = -\dfrac{1}{x} = -f(x)$
+- **Courbe :** Hyperbole de centre l'origine, symétrique par rapport à l'origine
+- **Variations :**
+    - Strictement décroissante sur $]-\infty ; 0[$
+    - Strictement décroissante sur $]0 ; +\infty[$
+    - ⚠️ Mais **pas** décroissante sur $\mathbb{R}$ tout entier !
 
-### ⚠️ Attention pour les quotients :
-- Numérateur s'annule → on met **0**
-- Dénominateur s'annule → **double barre $||$** (valeur interdite !)
+**Équation $\dfrac{1}{x} = k$ :**
 
----
-
-# Fiche de révision — Chapitre 10 : Statistiques
-
----
-
-## I — Vocabulaire
-
-- **Population** : l'ensemble qu'on étudie
-- **Caractère** : la propriété étudiée
-- **Effectif** : nombre d'éléments qui ont une certaine valeur
-- **Fréquence** : $\frac{\text{effectif de la valeur}}{\text{effectif total}}$
-- **Classes** : intervalles sans valeur commune pour regrouper les données
-
-> ⚠️ La somme des effectifs = effectif total et la somme des fréquences = 1
+| Condition | Solutions |
+| --------- | --------- |
+| $k = 0$ | $S = \emptyset$ |
+| $k \neq 0$ | $S = \left\{\dfrac{1}{k}\right\}$ |
 
 ---
 
-## II — Moyenne
+## III - Fonction racine carrée : $f(x) = \sqrt{x}$
 
-### Avec les effectifs :
-$$\bar{x} = \frac{x_1 \times n_1 + x_2 \times n_2 + ... + x_k \times n_k}{n_1 + n_2 + ... + n_k}$$
+- **Ensemble de définition :** $[0 ; +\infty[$
+- **Courbe :** Part de l'origine et monte de plus en plus lentement
+- **Variations :** Strictement croissante sur $[0 ; +\infty[$
 
-### Avec les fréquences :
-$$\bar{x} = x_1 \times f_1 + x_2 \times f_2 + ... + x_k \times f_k$$
+**Équations/Inéquations avec $\sqrt{x} = k$ :**
 
-### Avec des classes :
-On prend le **centre de la classe** : pour $[a;b[$, le centre c'est $\frac{a+b}{2}$
-
-### Linéarité de la moyenne :
-- On multiplie toutes les valeurs par $a$ → la moyenne est multipliée par $a$
-- On ajoute $b$ à toutes les valeurs → la moyenne augmente de $b$
-
----
-
-## III — Écart-type
-
-### Variance :
-$$V = \frac{n_1(x_1 - \bar{x})^2 + n_2(x_2 - \bar{x})^2 + ... + n_k(x_k - \bar{x})^2}{n_1 + n_2 + ... + n_k}$$
-
-### Écart-type :
-$$\sigma = \sqrt{V}$$
-
-- $\sigma$ **grand** → valeurs **dispersées**
-- $\sigma$ **petit** → valeurs **homogènes**
+| Condition | Solutions |
+| --------- | --------- |
+| $k < 0$ | $S = \emptyset$ |
+| $k \geq 0$ | $S = \{k^2\}$ |
+| $\sqrt{x} \leq k$ (avec $k \geq 0$) | $S = [0 ; k^2]$ |
+| $\sqrt{x} > k$ (avec $k \geq 0$) | $S = ]k^2 ; +\infty[$ |
 
 ---
 
-## IV — Médiane
+## IV - Fonction cube : $f(x) = x^3$
 
-La médiane $Me$ sépare la série ordonnée en deux parties égales :
-- $n$ **impair** → valeur de rang $\frac{n+1}{2}$
-- $n$ **pair** → moyenne des deux valeurs du milieu
+- **Ensemble de définition :** $\mathbb{R}$
+- **Parité :** Impaire → $f(-x) = (-x)^3 = -x^3 = -f(x)$
+- **Courbe :** Symétrique par rapport à l'origine, passe par $(0;0)$
+- **Variations :** Strictement croissante sur $\mathbb{R}$
+
+**Équations/Inéquations avec $x^3 = k$ :**
+
+| Condition | Solutions |
+| --------- | --------- |
+| Pour tout $k$ | $S = \{\sqrt[3]{k}\}$ (toujours une unique solution) |
+| $x^3 < k$ | $S = ]-\infty ; \sqrt[3]{k}[$ |
+| $x^3 \geq k$ | $S = [\sqrt[3]{k} ; +\infty[$ |
 
 ---
 
-## V — Quartiles et écart interquartile
+## Récap rapide à retenir 🧠
 
-- **$Q_1$** : on calcule $\frac{n}{4}$, on arrondit à l'entier supérieur → rang de $Q_1$
-- **$Q_3$** : on calcule $\frac{3n}{4}$, on arrondit à l'entier supérieur → rang de $Q_3$
-- **Écart interquartile** : $Q_3 - Q_1$
-
-> Environ **50%** des valeurs sont entre $Q_1$ et $Q_3$
+| Fonction | Définie sur | Parité | Variations |
+| -------- | ----------- | ------ | ---------- |
+| $x^2$ | $\mathbb{R}$ | Paire | Décroissante puis croissante (min en 0) |
+| $\dfrac{1}{x}$ | $\mathbb{R} \setminus \{0\}$ | Impaire | Décroissante sur chaque intervalle |
+| $\sqrt{x}$ | $[0 ; +\infty[$ | — | Croissante |
+| $x^3$ | $\mathbb{R}$ | Impaire | Croissante |
 
 ---
 
-## VI — Étendue
-
-$$\text{Étendue} = \text{valeur max} - \text{valeur min}$$
-
+Tu veux que je la modifie ou que j'ajoute quelque chose ? 😄

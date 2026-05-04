@@ -155,3 +155,45 @@ c)
 La carte tirée n'est un coeur et est une figure
 d)
 La carte tirée n'est un coeur ou n'est une figure
+## 73)
+a) GnR
+b) R-
+c) GUR
+d)GR-
+## Page 326
+### 27)
+1) Non
+2) Rouge : 1/6 / Bleu : 1/2 / Blanc : 1/3
+### 31)
+a) 20%
+b) 8%
+### 34)
+1) 1/52
+2) 1/4
+3) 3/13
+### 35)
+1) 3/4
+2) 3/4
+### 36)
+1) 230/1425
+2) 385/1425
+3) 905/1425
+### 37)
+$\emptyset$
+## 45)
+## 46)
+a) RnE C'est un roman emprunté
+RuE C'est soit un roman soit un livre emprunté
+b) 4/12 1/6
+2)a) C'est pas un roman
+b) 7/12
+## 93)
+a) 0,7
+b) 0,2
+c) 0,15
+d) 1/21
+## 94)
+1)0,1
+2)
+a)0,4
+b)0,4

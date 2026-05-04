@@ -1,3 +1,3 @@
-- **"Hiper-"** → préfixe d'origine grecque (*ὑπέρ*) qui veut dire **"excès"**, "au-dessus de", "au-delà de la normale" (comme dans *hypertension*, *hyperactif*…)
-- "-magalia"** → vient du grec *mégas* (μέγας) qui signifie **"grand"** ou **"agrandissement"**. On le retrouve beaucoup en médecine (par exemple : *hépatomégalie* = agrandissement du foie).
-- C'est donc pour designer quelque chose qui est excessivement grand   
+- **"Hiper-"** → préfixe d'origine grecque (*ὑπέρ*) qui veut dire **"excès"**.
+- **"-magalia"** → vient du grec *mégas* (μέγας) qui signifie **"grand"** ou **"agrandissement"**.
+- C'est donc pour designer quelque chose qui est excessivement grand.

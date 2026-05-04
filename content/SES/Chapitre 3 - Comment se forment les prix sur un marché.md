@@ -1,4 +1,4 @@
-Introduction dans le cahier
+ Introduction dans le cahier
 ## 1- Comment le marché fonctionne il ?
 ### 1) Comment la demande évolue elle par rapport au prix
 cf *doc 2p70*
