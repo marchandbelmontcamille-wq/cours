@@ -197,3 +197,27 @@ d) 1/21
 2)
 a)0,4
 b)0,4
+
+## 99)
+1) $MN = MA + AC + CN$
+$MA = -AM = (1/3)BA$
+$CN = (1/3)CA = -(1/3)AC$
+Donc $MN = (1/3)BA + AC - (1/3)AC = (1/3)BA + (2/3)AC$
+2) $MP = MA + AC + CP$
+$CP = (1/3)BC = (1/3)(BA + AC)$
+Donc $MP = (1/3)BA + AC + (1/3)BA + (1/3)AC = (2/3)BA + (4/3)AC$
+3) On remarque que $MP = 2 × MN car (2/3)BA + (4/3)AC = 2 × [(1/3)BA + (2/3)AC]$
+Les vecteurs MN et MP sont colinéaires donc M, N et P sont alignés.
+## 104)
+**1)** Vecteur OA(6 ; 3) et vecteur BC(5−(−3) ; 4−0) = (8 ; 4)
+On teste la colinéarité : 6×4 − 3×8 = 24 − 24 = 0$
+Donc OA et BC sont colinéaires, donc (OA) // (BC).
+**2)** Vecteur BC(8 ; 4) et vecteur BD(−1−(−3) ; 1−0) = (2 ; 1)
+Colinéarité : 8×1 − 4×2 = 8 − 8 = 0
+Donc BC et BD colinéaires, donc B, C et D sont alignés.
+**3)** Vecteur AB(−9 ; −3) et vecteur AM(25−6 ; y−3) = (19 ; y−3)
+Pour que M ∈ (AB), il faut AB et AM colinéaires :
+(−9)(y−3) − (−3)(19) = 0
+−9y + 27 + 57 = 0
+−9y = −84
+y = 28/3

@@ -1,0 +1,1 @@
+Los protagonistas del texto son Oliver y Nora. La exena tiene lugar en el museo del Prado en Madrid. El texto es un dialogo.

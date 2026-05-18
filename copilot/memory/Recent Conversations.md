@@ -1,11 +1,3 @@
-## Explication du processus d'adhésion au Commonwealth
-**Time:** 2026-02-19 15:38
-**Summary:** L'utilisateur demande la signification de l'expression 'apply → approved by all existing members'. L'explication donnée est que pour rejoindre le Commonwealth, un pays doit postuler et obtenir l'approbation unanime de tous les membres existants.
-
-## Vérification du cours sur la valeur absolue
-**Time:** 2026-03-11 16:57
-**Summary:** L'utilisateur demande de vérifier son cours sur la valeur absolue (Chapitre 9). Une erreur est identifiée : la formule de distance quand a ≤ b devrait être b - a et non a + b. Ensuite, l'utilisateur s'entraîne sur plusieurs exercices d'interprétation d'expressions en valeur absolue (|√2 - 1|, |x - 3|, |x + 1|, |x|) en termes de distance sur une droite graduée.
-
 ## Recherche de templates de livrées de bus
 **Time:** 2026-03-11 18:00
 **Summary:** L'utilisateur cherche des modèles/templates de faces et vues de côté de bus pour créer des livrées. Des sources comme DeviantArt, Google Images, Freepik et les communautés de jeux de simulation ont été suggérées. Il a aussi demandé les termes anglais pour "bus de ville" (transit bus / city bus) et "sur le côté" (side view) afin d'affiner ses recherches.
@@ -117,3 +109,11 @@
 ## Salutation et requête simple
 **Time:** 2026-04-16 14:51
 **Summary:** L'utilisateur salue l'assistant puis lui demande simplement de dire « 1, 2, 3 ». Aucune discussion de fond n'a eu lieu.
+
+## Phrases espagnoles à l'impératif ordre et défense
+**Time:** 2026-05-06 17:41
+**Summary:** L'utilisateur demande des phrases en espagnol à l'impératif (ordres et défenses) avec la forme vosotros, dans un contexte scolaire (classe). Plusieurs exemples ont été fournis avec traductions françaises et un rappel des règles de formation (affirmatif vs négatif).
+
+## Exercice sur les points alignés avec des vecteurs
+**Time:** 2026-05-10 17:36
+**Summary:** L'utilisateur demande la résolution d'un exercice de géométrie vectorielle (exercice 99) portant sur la démonstration de l'alignement de trois points M, N et P. La solution exprime les vecteurs MN et MP en fonction de BA et AC, puis montre que MP = 2·MN, ce qui prouve la colinéarité et donc l'alignement des trois points.

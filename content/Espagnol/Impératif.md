@@ -23,3 +23,13 @@
 el simbolo madrileño es el oo y el madroño, se situa en el centro de le la ciudad, en la plaza Sol.
 El museo del Prado alberga los obras maestras de los pintores clasicos espanoles 
 La puerta del Alquala es la puerta de el trada a la capital. En el congreso de los disputados, el presidente del gobierno establece los leyes. En el palacio real habita el rey Felipe $\text {IV}$
+
+L'impératif comporte 5 personnes :
+tu
+usted
+nosotros
+ustedes
+vosotros
+Il n'existe cependant que deux forces spécifiques d'impératif :
+habla et hablad
+Les autres personnes se forment avec le subjonctif
