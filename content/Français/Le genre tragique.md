@@ -1,1 +1,0 @@
-La muse Melpomène inspire les tragédies. La tragédie est, selon Aristote, l'imitation d'une action noble, qui représente le passage du triomphe à l'infortune

@@ -1,3 +1,0 @@
-- **"Hiper-"** → préfixe d'origine grecque (*ὑπέρ*) qui veut dire **"excès"**.
-- **"-magalia"** → vient du grec *mégas* (μέγας) qui signifie **"grand"** ou **"agrandissement"**.
-- C'est donc pour designer quelque chose qui est excessivement grand.

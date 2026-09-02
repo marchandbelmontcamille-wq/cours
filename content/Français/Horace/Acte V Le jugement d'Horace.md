@@ -1,1 +1,0 @@
-Cet acte est critiqué par Corneille lui même dans son examen. Le procès crée un 2eme péril pour le héros qui nuit à l'unité d'action. Il y a une réquisitoire (discours d'accusation prononcé par Valère) et un plaidoyer (discours de défense par le vieil Horace)

@@ -1,8 +1,0 @@
-### J'observe :
-
-Il existe deux formes de phalènes du bouleau : une forme claire (allèle c) et une forme sombre (allèle S). Cette différence est donc génétique. D'après le document 2, avant 1854, les phalènes claires sont majoritaires et les sombres très rares. Puis entre 1854 et 1970, les phalènes sombres deviennent de plus en plus nombreuses jusqu'à dominer la population, tandis que les claires diminuent fortement. Enfin, après 1970, les phalènes claires reviennent petit à petit.
-### Or je sais que :
-
-Les phalènes se posent sur les troncs d'arbres et se font manger par des oiseaux. À partir de 1854, avec la révolution industrielle, la pollution a noirci les troncs à cause de la suie des usines. Après 1970, des lois contre la pollution ont été mises en place, et les troncs sont redevenus clairs. De plus, la sélection naturelle est un mécanisme où les individus possédant le caractère le plus adapté à leur environnement ont plus de chances de survivre et de se reproduire, ce qui rend leur allèle de plus en plus fréquent dans la population.
-### Donc je conclus :
-Quand les troncs étaient clairs, les phalènes claires se camouflaient mieux et étaient moins repérées par les oiseaux : l'allèle c était avantageux. Quand les troncs sont devenus noirs à cause de la pollution, ce sont les phalènes sombres qui se camouflaient mieux : l'allèle S est devenu avantageux. Puis quand les troncs sont redevenus clairs après 1970, l'allèle c est redevenu avantageux. Les changements dans la population de phalènes à Manchester s'expliquent donc par la sélection naturelle : selon l'environnement, l'allèle qui permet le meilleur camouflage est favorisé, ce qui montre que l'évolution des espèces dépend de leur environnement.

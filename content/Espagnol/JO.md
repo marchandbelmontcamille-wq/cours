@@ -1,1 +1,0 @@
-La cérémonie était magnifique, innovations spectaculaires cheval bateau

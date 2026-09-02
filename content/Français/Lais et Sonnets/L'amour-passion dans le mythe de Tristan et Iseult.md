@@ -1,2 +1,0 @@
-L'amour-passion se nourrit d'obstacles, d'interdit. C'est un amour transgressif qui s'exalte par la contrainte. "L'amour heureux n'a pas d'histoire."
-C'est aussi ces obstacles qui nourrissent les péripéties du roman. L'amour courtois est un art d'aimer raffiné dans lequel la dame est idéalisée, inaccessible et froide et son amant est son vassal
