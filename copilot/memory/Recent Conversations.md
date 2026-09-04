@@ -1,11 +1,3 @@
-## Recherche de templates de livrées de bus
-**Time:** 2026-03-11 18:00
-**Summary:** L'utilisateur cherche des modèles/templates de faces et vues de côté de bus pour créer des livrées. Des sources comme DeviantArt, Google Images, Freepik et les communautés de jeux de simulation ont été suggérées. Il a aussi demandé les termes anglais pour "bus de ville" (transit bus / city bus) et "sur le côté" (side view) afin d'affiner ses recherches.
-
-## Accroche webradio sur l'exploit NOCOM (Minecraft 2b2t)
-**Time:** 2026-03-12 21:10
-**Summary:** L'utilisateur demande d'améliorer l'accroche d'un script de webradio portant sur NOCOM, une célèbre faille exploitée sur le serveur anarchie 2b2t de Minecraft, qui permettait de localiser les coordonnées de tous les joueurs en temps réel. Plusieurs propositions d'accroches avec différents tons (mystérieux, direct, suspense) ont été fournies.
-
 ## Australie : Stolen Generations et Commonwealth
 **Time:** 2026-03-13 15:32
 **Summary:** L'utilisateur pose des questions sur l'histoire des Stolen Generations en Australie (enlèvement forcé d'enfants aborigènes entre 1910-1970, traumatismes persistants, excuses de Kevin Rudd en 2008) et sur les désavantages de l'appartenance de l'Australie au Commonwealth (lien colonial, question de la souveraineté, frein à la république). Ces questions semblent liées à un cours d'anglais.
@@ -117,3 +109,11 @@
 ## Exercice sur les points alignés avec des vecteurs
 **Time:** 2026-05-10 17:36
 **Summary:** L'utilisateur demande la résolution d'un exercice de géométrie vectorielle (exercice 99) portant sur la démonstration de l'alignement de trois points M, N et P. La solution exprime les vecteurs MN et MP en fonction de BA et AC, puis montre que MP = 2·MN, ce qui prouve la colinéarité et donc l'alignement des trois points.
+
+## Vérification du tableau des phases de la mitose
+**Time:** 2026-09-04 14:48
+**Summary:** L'utilisateur demande de vérifier son tableau sur les phases de la mitose (prophase, métaphase, anaphase, télophase). Une erreur est identifiée : en télophase, le nombre de chromatides par chromosome devrait être 1 et non 2, car la séparation des chromatides sœurs a déjà eu lieu lors de l'anaphase. Le reste du tableau est correct.
+
+## Rôle du secrétaire de l'Assemblée nationale
+**Time:** 2026-09-04 14:48
+**Summary:** L'utilisateur demande quel est le rôle du secrétaire de l'Assemblée nationale. L'assistant explique que les secrétaires (au nombre de 12) supervisent les votes, assistent le président de l'AN, et rédigent les procès-verbaux des séances.
